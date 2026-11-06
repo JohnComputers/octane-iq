@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#111310" />
+  <meta name="description" content="Guess the car from a cropped photo in five attempts. Free daily car identification with unlimited practice." />
+  <title>Spotter — Guess the Car | Octane IQ</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./spotter.css" />
+  <script src="./spotter.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#spotter-main">Skip to game</a>
+  <header class="site-header spotter-header">
+    <a class="brand" href="./"><span class="brand-mark" aria-hidden="true"><i></i></span><span>OCTANE <b>IQ</b></span></a>
+    <nav aria-label="Game navigation"><a class="text-button" href="./#modes">All games ↗</a><a class="text-button" href="./credits.html">Photo credits</a></nav>
+  </header>
+  <main class="spotter-shell" id="spotter-main">
+    <div class="spotter-heading"><div><p class="eyebrow"><span></span> A closer look</p><h1>Spotter</h1><p>Guess the make and model. Each miss reveals more of the photo.</p></div><div class="spotter-tabs" role="group" aria-label="Game type"><button id="daily-spotter" type="button" aria-pressed="true">Daily</button><button id="practice-spotter" type="button" aria-pressed="false">Practice</button></div></div>
+    <div class="spotter-status"><span id="spotter-date">Today’s car</span><strong id="spotter-attempt">Reveal 1 of 5</strong><span id="spotter-streak">0-day streak</span></div>
+    <section class="spotter-game" aria-labelledby="spotter-question">
+      <div class="photo-side">
+        <div class="spotter-photo" id="spotter-photo">
+          <img id="car-photo" alt="Mystery car photograph" decoding="async" fetchpriority="high" />
+          <div id="photo-loading" class="photo-loading" role="status">Loading the car photo…</div>
+          <div id="photo-error" class="photo-error" role="alert" hidden><strong>The photo couldn’t load.</strong><p>Check your connection and try again. Your attempts are safe.</p><button id="retry-photo" class="button button-primary" type="button">Retry photo</button></div>
+          <span class="reveal-badge" id="reveal-badge">Detail crop</span>
+        </div>
+        <div class="photo-caption"><span id="photo-credit">Licensed car photography • bundled with the game</span><a id="photo-source" href="./credits.html" target="_blank" rel="noopener noreferrer">Image source ↗</a></div>
+      </div>
+      <div class="guess-side">
+        <p class="micro-label" id="spotter-round">Daily challenge</p><h2 id="spotter-question">What’s the car?</h2>
+        <p class="spotter-instructions">Enter the make and model—no exact model year needed. You have five attempts.</p>
+        <form id="guess-form">
+          <label for="car-guess">Make and model</label>
+          <input id="car-guess" name="guess" list="car-options" placeholder="e.g. Ford Mustang" autocomplete="off" maxlength="100" required />
+          <datalist id="car-options"></datalist>
+          <button id="submit-guess" class="button button-primary" type="submit">Lock in guess <span aria-hidden="true">→</span></button>
+        </form>
+        <div class="spotter-help"><button id="skip-reveal" type="button">Skip & reveal more</button><button id="show-hint" type="button">Show a clue</button></div>
+        <p id="spotter-hint" class="spotter-hint" hidden></p>
+        <ol id="guess-history" class="guess-history" aria-label="Your guesses"></ol>
+        <div id="spotter-result" class="spotter-result" tabindex="-1" hidden><p id="spotter-outcome"></p><h3 id="spotter-answer"></h3><p id="spotter-fact"></p><div><button id="share-spotter" class="button button-dark button-small" type="button">Share result ↗</button><button id="next-car" class="button button-outline button-small" type="button">Another car →</button></div></div>
+        <p class="spotter-message" id="spotter-message" role="status" aria-live="polite" aria-atomic="true"></p>
+      </div>
+    </section>
+    <div class="spotter-principles"><span>✓ Every photo hosted with the site</span><span>✓ Unlimited practice</span><span>✓ No account or paywall</span></div>
+    <p class="spotter-note">Daily changes at midnight UTC. Photos and model list repeat as the starter collection rotates. More trivia? <a href="./">Take today’s Daily Drive →</a></p>
+  </main>
+</body>
+</html>

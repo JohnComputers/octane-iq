@@ -1,0 +1,122 @@
+[
+  {
+    "id": "garage-basics",
+    "title": "Garage basics",
+    "groups": [
+      { "label": "Italian design houses", "explanation": "Studios and coachbuilders that shaped landmark cars.", "terms": ["Pininfarina", "Bertone", "Italdesign", "Zagato"] },
+      { "label": "Engine configurations", "explanation": "Ways an engine's cylinders can be arranged.", "terms": ["Inline-four", "Flat-six", "V-eight", "W-twelve"] },
+      { "label": "Driver-assistance acronyms", "explanation": "Electronic systems for braking, stability, traction, and emergency braking.", "terms": ["ABS", "ESC", "TCS", "AEB"] },
+      { "label": "Japanese performance icons", "explanation": "Four celebrated Japanese sports cars.", "terms": ["GT-R", "RX-7", "Supra", "NSX"] }
+    ]
+  },
+  {
+    "id": "road-and-charge",
+    "title": "Road and charge",
+    "groups": [
+      { "label": "American pony cars", "explanation": "Long-hood performance coupes born from the pony-car formula.", "terms": ["Mustang", "Camaro", "Challenger", "Firebird"] },
+      { "label": "EV connector standards", "explanation": "Common AC or DC charging connector systems.", "terms": ["CCS", "CHAdeMO", "NACS", "Type 2"] },
+      { "label": "Suspension hardware", "explanation": "Parts that locate, spring, or control wheel movement.", "terms": ["Control arm", "Damper", "Coil spring", "Anti-roll bar"] },
+      { "label": "Le Mans-winning marques", "explanation": "Manufacturers with overall victories at the 24 Hours of Le Mans.", "terms": ["Porsche", "Audi", "Toyota", "Bentley"] }
+    ]
+  },
+  {
+    "id": "race-language",
+    "title": "Race language",
+    "groups": [
+      { "label": "Formula One champions", "explanation": "Multiple-time Formula One World Drivers' Champions.", "terms": ["Senna", "Prost", "Vettel", "Hamilton"] },
+      { "label": "Rally vocabulary", "explanation": "Terms central to stage rallying.", "terms": ["Pacenote", "Hairpin", "Shakedown", "Co-driver"] },
+      { "label": "Transmission types", "explanation": "Different ways a driveline selects ratios.", "terms": ["Manual", "DCT", "CVT", "Torque converter"] },
+      { "label": "Body styles", "explanation": "Names for distinct passenger-car silhouettes.", "terms": ["Fastback", "Shooting brake", "Roadster", "Liftback"] }
+    ]
+  },
+  {
+    "id": "boost-and-badges",
+    "title": "Boost and badges",
+    "groups": [
+      { "label": "Mazda rotary machines", "explanation": "Mazdas powered by production or racing rotary engines.", "terms": ["RX-7", "RX-8", "Cosmo", "787B"] },
+      { "label": "Lamborghini nameplates", "explanation": "Four V12 Lamborghini model lines.", "terms": ["Miura", "Countach", "Diablo", "Murciélago"] },
+      { "label": "Turbocharger system", "explanation": "Core parts that make and control turbo boost.", "terms": ["Compressor", "Turbine", "Wastegate", "Intercooler"] },
+      { "label": "Tire sidewall data", "explanation": "Measurements or ratings encoded on a tire sidewall.", "terms": ["Width", "Aspect ratio", "Rim diameter", "Load index"] }
+    ]
+  },
+  {
+    "id": "control-systems",
+    "title": "Control systems",
+    "groups": [
+      { "label": "Passive-safety ideas", "explanation": "Features intended to protect occupants in a crash.", "terms": ["Three-point belt", "Crumple zone", "Safety cell", "Airbag"] },
+      { "label": "ADAS sensors", "explanation": "Sensor types used by modern driver-assistance systems.", "terms": ["Radar", "Lidar", "Camera", "Ultrasonic"] },
+      { "label": "Handling vocabulary", "explanation": "Terms describing a car's motion and tire behavior.", "terms": ["Understeer", "Oversteer", "Yaw", "Slip angle"] },
+      { "label": "Wheel-alignment geometry", "explanation": "Angles used to describe steering and wheel alignment.", "terms": ["Caster", "Camber", "Toe", "Kingpin"] }
+    ]
+  },
+  {
+    "id": "performance-divisions",
+    "title": "Performance divisions",
+    "groups": [
+      { "label": "Porsche 911 generations", "explanation": "Internal generation codes from the air- and water-cooled 911 timeline.", "terms": ["964", "993", "996", "997"] },
+      { "label": "BMW M nameplates", "explanation": "Production cars carrying BMW M's single-digit badges.", "terms": ["M1", "M3", "M5", "M8"] },
+      { "label": "Ford RS legends", "explanation": "Road or rally machines wearing Ford's RS badge.", "terms": ["RS1600", "RS200", "Focus RS", "Sierra RS500"] },
+      { "label": "Honda Type R models", "explanation": "Honda and Acura model lines offered in Type R form.", "terms": ["Integra", "Civic", "Accord", "NSX"] }
+    ]
+  },
+  {
+    "id": "electric-current",
+    "title": "Electric current",
+    "groups": [
+      { "label": "EV powertrain terms", "explanation": "Energy, control, recovery, and propulsion in an EV.", "terms": ["kWh", "Inverter", "Regeneration", "Motor"] },
+      { "label": "Charging categories", "explanation": "Common ways charging sessions are described.", "terms": ["Level 1", "Level 2", "DC fast", "Destination"] },
+      { "label": "Battery chemistries", "explanation": "Cell chemistry families or a much-discussed solid-electrolyte approach.", "terms": ["LFP", "NMC", "NCA", "Solid-state"] },
+      { "label": "Hybrid architectures", "explanation": "Four broad ways electric drive can assist combustion power.", "terms": ["Mild", "Full", "Plug-in", "Range extender"] }
+    ]
+  },
+  {
+    "id": "shape-and-circuit",
+    "title": "Shape and circuit",
+    "groups": [
+      { "label": "Automotive design cues", "explanation": "Named proportions or surface treatments in car design.", "terms": ["Hofmeister kink", "Kamm tail", "Coke bottle", "Cab-forward"] },
+      { "label": "Famous circuits", "explanation": "Four globally recognized road-racing venues.", "terms": ["Nürburgring", "Monza", "Suzuka", "Laguna Seca"] },
+      { "label": "Collector-car vocabulary", "explanation": "Terms heard at auctions and concours events.", "terms": ["Reserve", "Provenance", "Hammer price", "Concours"] },
+      { "label": "Movie-car models", "explanation": "Models with starring roles in major films or franchises.", "terms": ["DeLorean", "DB5", "Charger", "Mini"] }
+    ]
+  },
+  {
+    "id": "tuning-sheet",
+    "title": "Tuning sheet",
+    "groups": [
+      { "label": "Japanese performance labels", "explanation": "Factory performance sub-brands or badges from Japan.", "terms": ["Type R", "Nismo", "GR", "STI"] },
+      { "label": "Ferrari place names", "explanation": "Ferrari nameplates borrowed from Italian or Californian places.", "terms": ["Modena", "Maranello", "Roma", "California"] },
+      { "label": "Disc-brake hardware", "explanation": "Parts involved in creating and transmitting braking force.", "terms": ["Rotor", "Caliper", "Pad", "Master cylinder"] },
+      { "label": "Aerodynamic devices", "explanation": "Bodywork used to manage airflow or create downforce.", "terms": ["Splitter", "Diffuser", "Canard", "Wing"] }
+    ]
+  },
+  {
+    "id": "workshop-instruments",
+    "title": "Workshop instruments",
+    "groups": [
+      { "label": "Classic British roadsters", "explanation": "Lightweight open sports cars from British marques.", "terms": ["MGB", "Triumph Spitfire", "Austin-Healey 3000", "Lotus Elan"] },
+      { "label": "French marques", "explanation": "Automakers founded in France.", "terms": ["Peugeot", "Renault", "Citroën", "Alpine"] },
+      { "label": "Engine-management sensors", "explanation": "Inputs commonly used by an engine control unit.", "terms": ["MAF", "MAP", "O2 sensor", "Throttle position"] },
+      { "label": "Dashboard measures", "explanation": "Instruments that report speed, engine revs, distance, or fuel.", "terms": ["Tachometer", "Speedometer", "Odometer", "Fuel gauge"] }
+    ]
+  },
+  {
+    "id": "small-and-mighty",
+    "title": "Small and mighty",
+    "groups": [
+      { "label": "Japanese kei sports cars", "explanation": "Tiny Japanese sports cars built to kei regulations.", "terms": ["Honda Beat", "Cappuccino", "Autozam AZ-1", "Daihatsu Copen"] },
+      { "label": "Group B rally cars", "explanation": "Machines developed for rallying's spectacular Group B era.", "terms": ["Audi Quattro", "Peugeot 205 T16", "Lancia Delta S4", "Ford RS200"] },
+      { "label": "Differential types", "explanation": "Ways a differential can distribute or control wheel torque.", "terms": ["Open", "Limited-slip", "Locking", "Torque-vectoring"] },
+      { "label": "Workshop fluids", "explanation": "Service fluids found around a conventional car.", "terms": ["Coolant", "Brake fluid", "Gear oil", "Power-steering fluid"] }
+    ]
+  },
+  {
+    "id": "endurance-and-motion",
+    "title": "Endurance and motion",
+    "groups": [
+      { "label": "Major endurance races", "explanation": "Long-distance fixtures lasting 12 or 24 hours.", "terms": ["Le Mans 24", "Daytona 24", "Sebring 12", "Nürburgring 24"] },
+      { "label": "Famous racing corners", "explanation": "Named corners from Spa, Laguna Seca, Suzuka, and Monza.", "terms": ["Eau Rouge", "Corkscrew", "130R", "Parabolica"] },
+      { "label": "Metal-forming processes", "explanation": "Ways vehicle parts can be shaped or produced from metal.", "terms": ["Stamping", "Casting", "Forging", "Extrusion"] },
+      { "label": "Four-stroke cycle", "explanation": "The four piston strokes of a conventional four-stroke engine.", "terms": ["Intake", "Compression", "Power", "Exhaust"] }
+    ]
+  }
+]

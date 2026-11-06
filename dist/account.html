@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#111310" />
+  <meta name="description" content="Sign in to Octane IQ with email and password or Google, or keep playing as a guest." />
+  <title>Account — Octane IQ</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./account.css" />
+  <script type="module" src="./account.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#account-main">Skip to account</a>
+  <header class="site-header account-header">
+    <a class="brand" href="./" aria-label="Octane IQ home"><span class="brand-mark" aria-hidden="true"><i></i></span><span>OCTANE <b>IQ</b></span></a>
+    <nav aria-label="Account navigation"><a class="text-button" href="./">Play as guest</a><a class="text-button" href="./spotter.html">Spotter</a></nav>
+  </header>
+
+  <main class="account-page" id="account-main">
+    <section class="account-intro" aria-labelledby="account-title">
+      <p class="eyebrow"><span></span> Your driver profile</p>
+      <h1 id="account-title">Sign in your way.<br /><em>Or just play.</em></h1>
+      <p>Use email or Google for an optional account. Quiz stats stay on this device for now, and every game remains available to guests.</p>
+      <ul aria-label="Account principles"><li>Email or Google</li><li>Stats stay on this device</li><li>Guest play stays available</li></ul>
+      <a class="button button-outline" href="./">Continue as guest →</a>
+    </section>
+
+    <section class="account-card" aria-labelledby="auth-card-title">
+      <div class="auth-unconfigured" id="auth-unconfigured" role="status" hidden>
+        <span aria-hidden="true">⚙</span>
+        <div><h2>Sign-in is coming soon</h2><p>Accounts haven’t been connected yet. Every quiz and Spotter still works without one.</p><a href="./">Keep playing as a guest →</a></div>
+      </div>
+
+      <div id="auth-loading" class="auth-loading" role="status"><span aria-hidden="true"></span>Checking your session…</div>
+
+      <div id="signed-out" hidden>
+        <div class="auth-card-heading"><p class="micro-label">Optional account</p><h2 id="auth-card-title">Welcome to the garage</h2><p>Sign in with email or Google, or head straight back to the games.</p></div>
+
+        <button class="google-button" id="google-signin" type="button"><span aria-hidden="true">G</span>Continue with Google</button>
+        <div class="auth-divider"><span>or use email</span></div>
+
+        <div class="auth-tabs" role="group" aria-label="Email account action">
+          <button id="show-signin" type="button" aria-pressed="true">Sign in</button>
+          <button id="show-signup" type="button" aria-pressed="false">Create account</button>
+        </div>
+
+        <form class="auth-form" id="signin-form">
+          <label for="signin-email">Email address</label>
+          <input id="signin-email" name="email" type="email" autocomplete="email" inputmode="email" required />
+          <label for="signin-password">Password</label>
+          <input id="signin-password" name="password" type="password" autocomplete="current-password" required />
+          <button class="button button-primary" type="submit">Sign in <span aria-hidden="true">→</span></button>
+          <button class="auth-link" id="show-recovery" type="button">Forgot your password?</button>
+        </form>
+
+        <form class="auth-form" id="signup-form" hidden>
+          <label for="signup-email">Email address</label>
+          <input id="signup-email" name="email" type="email" autocomplete="email" inputmode="email" required />
+          <label for="signup-password">Create a password</label>
+          <input id="signup-password" name="password" type="password" autocomplete="new-password" minlength="8" required aria-describedby="signup-password-note" />
+          <small id="signup-password-note">Use at least 8 characters. Your Supabase project may enforce a stronger policy.</small>
+          <button class="button button-primary" type="submit">Create account <span aria-hidden="true">→</span></button>
+        </form>
+
+        <form class="auth-form" id="recovery-form" hidden>
+          <h3>Reset your password</h3>
+          <p>We’ll ask Supabase to send a secure recovery link.</p>
+          <label for="recovery-email">Email address</label>
+          <input id="recovery-email" name="email" type="email" autocomplete="email" inputmode="email" required />
+          <button class="button button-primary" type="submit">Send recovery email</button>
+          <button class="auth-link" id="back-to-signin" type="button">Back to sign in</button>
+        </form>
+      </div>
+
+      <div id="password-update" hidden>
+        <div class="auth-card-heading"><p class="micro-label">Secure recovery</p><h2>Choose a new password</h2><p>Your recovery code was verified by Supabase.</p></div>
+        <form class="auth-form" id="password-update-form">
+          <label for="new-password">New password</label>
+          <input id="new-password" name="password" type="password" autocomplete="new-password" minlength="8" required />
+          <label for="confirm-password">Confirm new password</label>
+          <input id="confirm-password" name="confirmPassword" type="password" autocomplete="new-password" minlength="8" required />
+          <button class="button button-primary" type="submit">Update password</button>
+        </form>
+      </div>
+
+      <div id="signed-in" hidden>
+        <div class="account-avatar" id="account-avatar" aria-hidden="true">O</div>
+        <p class="micro-label">Signed in</p>
+        <h2>You’re signed in.</h2>
+        <p class="account-email" id="account-email"></p>
+        <dl class="account-details"><div><dt>Sign-in method</dt><dd id="account-provider">—</dd></div><div><dt>Quiz stats</dt><dd>This device</dd></div></dl>
+        <div class="signed-in-actions"><a class="button button-primary" href="./">Play today →</a><button class="button button-outline" id="signout" type="button">Sign out</button></div>
+      </div>
+
+      <p class="auth-status" id="auth-status" role="status" aria-live="polite" aria-atomic="true"></p>
+      <p class="auth-privacy">Your sign-in is handled by the site’s authentication provider. Quiz results remain device-local for now.</p>
+    </section>
+  </main>
+</body>
+</html>

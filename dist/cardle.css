@@ -1,0 +1,29 @@
+.variant-nav { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 34px; }
+#cardle-title { font-size: clamp(46px, 7.5vw, 95px); }
+.variant-nav a { display: inline-flex; min-height: 40px; align-items: center; padding: 8px 16px; border: 1px solid var(--line); border-radius: 999px; font-size: 12px; font-weight: 800; text-decoration: none; }
+.variant-nav a[aria-current="page"] { background: var(--ink); color: var(--paper); }
+.vehicle-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.vehicle-fields > div:last-child { grid-column: 1 / -1; }
+.vehicle-fields label { display: block; margin-bottom: 7px; font-size: 12px; font-weight: 800; }
+.vehicle-fields label span { color: var(--muted); font-size: 11px; font-weight: 500; }
+.vehicle-fields input { min-width: 0; width: 100%; min-height: 50px; border: 1px solid var(--line-strong); border-radius: 9px; background: var(--paper); color: var(--ink); font-size: 16px; padding: 10px 12px; }
+.vehicle-fields input:disabled { opacity: .55; }
+.catalog-status { min-height: 18px; margin: 9px 0; color: var(--muted); font-size: 11px; }
+#cardle-submit { width: 100%; }
+.guess-table-wrap { width: 100%; overflow-x: auto; margin: 18px 0 0; }
+.guess-table { width: 100%; border-spacing: 5px; font-size: 11px; }
+.guess-table th { text-align: left; color: var(--muted); font-size: 10px; font-weight: 800; }
+.guess-table td { padding: 9px 7px; background: var(--paper); border-radius: 5px; overflow-wrap: anywhere; }
+.guess-table td.hit { background: #d7f5df; color: #19452a; }
+.guess-table td.miss { background: #f9dddd; color: #732525; }
+.guess-table small { display: block; font-size: 9px; font-weight: 850; }
+.guess-table td:first-child { background: none; color: var(--muted); }
+.game-links-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; margin-top: 35px; }
+.game-link-card { padding: 25px 20px; border: 1px solid var(--line); border-radius: 15px; background: var(--surface); text-decoration: none; transition: transform .15s ease; }
+.game-link-card:hover { transform: translateY(-4px); border-color: var(--orange); }
+.game-link-card b { display: block; font-family: var(--display); font-size: 23px; letter-spacing: -.04em; text-transform: uppercase; }
+.game-link-card span { display: block; color: var(--muted); font-size: 12px; margin-top: 10px; }
+.game-link-card i { display: inline-block; margin-top: 18px; font-style: normal; font-size: 21px; color: var(--orange-dark); }
+@media(max-width:1100px) { .game-links-grid { grid-template-columns:repeat(3,1fr); } }
+@media(max-width:640px) { .game-links-grid { grid-template-columns:repeat(2,1fr); } .game-link-card b { font-size:20px; } }
+@media(max-width:390px) { .vehicle-fields { grid-template-columns: 1fr; } .game-links-grid { grid-template-columns:1fr; } }

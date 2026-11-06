@@ -1,0 +1,7 @@
+node_modules/
+.openai/
+*.log
+test-results/
+.tmp/
+.DS_Store
+Thumbs.db

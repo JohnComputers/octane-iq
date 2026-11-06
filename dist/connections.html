@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#111310" />
+  <meta name="description" content="Find four hidden automotive connections in a free daily grouping puzzle, with unlimited practice and no account." />
+  <title>CarConnections — Automotive Grouping Puzzle | Octane IQ</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./connections.css" />
+  <script src="./connections.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#connections-main">Skip to puzzle</a>
+  <header class="site-header connections-header">
+    <a class="brand" href="./"><span class="brand-mark" aria-hidden="true"><i></i></span><span>OCTANE <b>IQ</b></span></a>
+    <nav aria-label="Game navigation"><a class="text-button" href="./#games">All games ↗</a><a class="text-button" href="./cardle.html">Cardle</a><a class="text-button" href="./autoask.html">AutoAsk</a></nav>
+  </header>
+
+  <main class="connections-shell" id="connections-main">
+    <section class="connections-heading">
+      <div><p class="eyebrow"><span></span> Find the common thread</p><h1>Car<span>Connections</span></h1><p>Sort sixteen automotive terms into four precise groups. You can make four mistakes.</p></div>
+      <div class="connections-tabs" role="group" aria-label="Game type"><button id="daily-connections" type="button" aria-pressed="true">Daily</button><button id="practice-connections" type="button" aria-pressed="false">Practice</button></div>
+    </section>
+
+    <div class="connections-status" aria-label="Puzzle status">
+      <span id="connections-date">Today · UTC</span><strong id="connections-title">Garage basics</strong><span id="connections-progress">0 of 4 groups</span>
+    </div>
+
+    <section class="connections-game" aria-labelledby="connections-instruction">
+      <h2 id="connections-instruction" class="sr-only">Select four related terms</h2>
+      <div class="solved-groups" id="solved-groups" aria-live="polite"></div>
+      <div class="connection-grid" id="connection-grid" aria-label="Unsolved terms"></div>
+
+      <div class="mistake-row"><span>Mistakes remaining</span><div id="mistake-dots" aria-label="Four mistakes remaining"><i></i><i></i><i></i><i></i></div></div>
+      <p class="connections-message" id="connections-message" role="status" aria-live="polite" aria-atomic="true">Select four terms that share one exact connection.</p>
+      <div class="connection-actions">
+        <button class="button button-outline button-small" id="shuffle-terms" type="button">Shuffle</button>
+        <button class="button button-outline button-small" id="deselect-terms" type="button">Deselect all</button>
+        <button class="button button-primary button-small" id="submit-group" type="button" disabled>Submit group →</button>
+      </div>
+
+      <div class="connections-result" id="connections-result" tabindex="-1" hidden>
+        <p class="micro-label">Puzzle complete</p><h2 id="connections-outcome">Four clean connections.</h2><p id="connections-summary"></p>
+        <div><button class="button button-dark button-small" id="share-connections" type="button">Share result ↗</button><button class="button button-outline button-small" id="another-connections" type="button">Practice another →</button></div>
+      </div>
+    </section>
+
+    <section class="connections-notes" aria-labelledby="connections-how"><div><p class="eyebrow"><span></span> How it works</p><h2 id="connections-how">Specific beats merely related.</h2></div><div class="connection-rules"><p><b>01</b> Select exactly four terms.</p><p><b>02</b> A correct group locks into place.</p><p><b>03</b> Similar-looking decoys may cross categories.</p><p><b>04</b> Four misses reveal the board.</p></div></section>
+    <p class="connections-note">The Daily is identical for everyone and changes at midnight UTC. Progress stays on this device. Every archive-style practice puzzle is free.</p>
+  </main>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "name": "Octane IQ — Free Car Trivia",
+  "short_name": "Octane IQ",
+  "description": "Daily automotive trivia with sourced explanations, free forever.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3efe6",
+  "theme_color": "#111310",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

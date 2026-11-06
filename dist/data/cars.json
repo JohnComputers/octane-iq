@@ -1,0 +1,3003 @@
+[
+  {
+    "id": "mustang-1965",
+    "make": "Ford",
+    "model": "Mustang Fastback",
+    "displayName": "1965 Ford Mustang Fastback",
+    "acceptedNames": [
+      "Ford Mustang",
+      "Mustang",
+      "Ford Mustang Fastback",
+      "Mustang Fastback",
+      "1965 Ford Mustang"
+    ],
+    "yearLabel": "1965",
+    "year": 1965,
+    "familyModel": "Mustang",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "I was introduced during the pony-car boom of the 1960s.",
+      "My first public splash came at the 1964 New York World's Fair.",
+      "This example wears the fastback roofline added for the 1965 model year.",
+      "My emblem is a galloping horse.",
+      "Ford built me as the first-generation Mustang."
+    ],
+    "image": "assets/cars/ford-mustang-1965.jpg",
+    "alt": "White 1960s fastback coupe at an outdoor car show",
+    "imageCredit": "Jeremy from Sydney, Australia / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_Fastback_(16017789739).jpg"
+  },
+  {
+    "id": "bel-air-1957",
+    "make": "Chevrolet",
+    "model": "Bel Air Sport Coupe",
+    "displayName": "1957 Chevrolet Bel Air Sport Coupe",
+    "acceptedNames": [
+      "Chevrolet Bel Air",
+      "Chevy Bel Air",
+      "Bel Air",
+      "1957 Chevrolet Bel Air",
+      "Chevrolet Bel Air Sport Coupe"
+    ],
+    "yearLabel": "1957",
+    "year": 1957,
+    "familyModel": "Bel Air",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "I come from Detroit's chrome-heavy tailfin era.",
+      "This exact model year is the finale of Chevrolet's celebrated Tri-Five run.",
+      "My 1957 face uses twin hood rockets and a wide chrome grille.",
+      "My trim name evokes an affluent Los Angeles neighborhood.",
+      "Chevrolet sold me as the Bel Air."
+    ],
+    "image": "assets/cars/chevrolet-bel-air-1957.jpg",
+    "alt": "Black 1950s American two-door coupe driving on a country road",
+    "imageCredit": "Ermell / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Sport_Coupe_P5200937.jpg"
+  },
+  {
+    "id": "e-type-1961",
+    "make": "Jaguar",
+    "model": "E-Type Series 1 3.8 Roadster",
+    "displayName": "1961 Jaguar E-Type Series 1 3.8 Roadster",
+    "acceptedNames": [
+      "Jaguar E-Type",
+      "Jaguar E Type",
+      "E-Type",
+      "E Type",
+      "Jaguar XK-E",
+      "Jaguar XKE"
+    ],
+    "yearLabel": "1961",
+    "year": 1961,
+    "familyModel": "E-Type",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "front",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "I debuted at the 1961 Geneva Motor Show.",
+      "My long bonnet covers a 3.8-liter inline-six in this early version.",
+      "This Series 1 roadster has glass-covered headlamps.",
+      "I was sold in North America under the XK-E name.",
+      "Jaguar called me the E-Type."
+    ],
+    "image": "assets/cars/jaguar-e-type-1961.jpg",
+    "alt": "Dark green 1960s British roadster displayed indoors",
+    "imageCredit": "DeFacto / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg"
+  },
+  {
+    "id": "mini-cooper-s-1965",
+    "make": "Austin",
+    "model": "Mini Cooper S",
+    "displayName": "1965 Austin Mini Cooper S",
+    "acceptedNames": [
+      "Austin Mini Cooper S",
+      "Mini Cooper S",
+      "Austin Mini",
+      "Classic Mini",
+      "Mini",
+      "Austin Mini Cooper"
+    ],
+    "yearLabel": "1965",
+    "year": 1965,
+    "familyModel": "Mini Cooper",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "front"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My transverse engine and front-wheel drive made remarkable room inside a tiny footprint.",
+      "Alec Issigonis designed my basic shape.",
+      "John Cooper turned me into a giant-killing competition car.",
+      "This 1965 example wears the hotter S badge.",
+      "I am an Austin Mini Cooper S."
+    ],
+    "image": "assets/cars/austin-mini-cooper-s-1965.jpg",
+    "alt": "Red compact 1960s racing saloon viewed from the front",
+    "imageCredit": "Sarah Stierch / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1965_Austin_Mini_Cooper_S_-_2015_Sonoma_Raceway_-_Sarah_Stierch.jpg"
+  },
+  {
+    "id": "golf-mk1",
+    "make": "Volkswagen",
+    "model": "Golf Mk1 GTI",
+    "displayName": "Volkswagen Golf Mk1 GTI",
+    "acceptedNames": [
+      "Volkswagen Golf",
+      "VW Golf",
+      "Volkswagen Golf Mk1",
+      "VW Golf Mk1",
+      "Golf Mk1",
+      "Volkswagen Golf GTI",
+      "Golf GTI"
+    ],
+    "yearLabel": "1983",
+    "year": 1983,
+    "familyModel": "Golf",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "hatchback",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "front"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "I arrived in the 1970s as a front-engine, front-wheel-drive hatchback.",
+      "Giorgetto Giugiaro drew my crisp, boxy shape.",
+      "I helped replace an air-cooled rear-engine icon in my maker's lineup.",
+      "The red grille outline and three-letter badge mark the hot version.",
+      "I am the first-generation Volkswagen Golf GTI."
+    ],
+    "image": "assets/cars/volkswagen-golf-mk1.jpg",
+    "alt": "Red boxy first-generation European hot hatch parked in a field",
+    "imageCredit": "Charles01 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_GTI_1780cc_registered_September_1983.jpg"
+  },
+  {
+    "id": "countach-lp400-1975",
+    "make": "Lamborghini",
+    "model": "Countach LP400 Periscopio",
+    "displayName": "1975 Lamborghini Countach LP400 Periscopio",
+    "acceptedNames": [
+      "Lamborghini Countach",
+      "Countach",
+      "Lamborghini Countach LP400",
+      "Countach LP400",
+      "Lamborghini Countach LP400 Periscopio"
+    ],
+    "yearLabel": "1975",
+    "year": 1975,
+    "familyModel": "Countach",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "Marcello Gandini drew my extreme wedge shape.",
+      "My V12 sits longitudinally behind the cabin.",
+      "I made upward-opening scissor doors a supercar signature.",
+      "This early LP400 wears the clean Periscopio-era body without later wings.",
+      "I am the Lamborghini Countach."
+    ],
+    "image": "assets/cars/lamborghini-countach-lp400-1975.jpg",
+    "alt": "Yellow wedge-shaped 1970s supercar viewed from the front",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1975_Lamborghini_Countach_LP400_Periscopo.jpg"
+  },
+  {
+    "id": "delorean-dmc12",
+    "make": "DeLorean",
+    "model": "DMC-12",
+    "displayName": "DeLorean DMC-12",
+    "acceptedNames": [
+      "DeLorean DMC-12",
+      "Delorean DMC-12",
+      "DeLorean DMC 12",
+      "DMC-12",
+      "DMC 12",
+      "DeLorean"
+    ],
+    "yearLabel": "1983",
+    "year": 1983,
+    "familyModel": "DMC-12",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "rear",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My body panels were left as brushed stainless steel.",
+      "Giorgetto Giugiaro shaped my low, angular coupe body.",
+      "I was assembled in Dunmurry, Northern Ireland.",
+      "My doors hinge at the roof.",
+      "I am the DeLorean DMC-12."
+    ],
+    "image": "assets/cars/delorean-dmc-12.jpg",
+    "alt": "Unpainted silver 1980s sports coupe displayed indoors with one door raised",
+    "imageCredit": "Damian B Oh / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1983_DeLorean_DMC-12_(2).jpg"
+  },
+  {
+    "id": "mx5-na-1990",
+    "make": "Mazda",
+    "model": "MX-5 Miata (NA)",
+    "displayName": "1990 Mazda MX-5 Miata (NA)",
+    "acceptedNames": [
+      "Mazda MX-5",
+      "Mazda MX5",
+      "Mazda MX-5 Miata",
+      "Mazda Miata",
+      "MX-5",
+      "MX5",
+      "Miata",
+      "Mazda Roadster"
+    ],
+    "yearLabel": "1990",
+    "year": 1990,
+    "familyModel": "MX-5 Miata",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "I revived the lightweight two-seat roadster formula at the end of the 1980s.",
+      "My first generation uses the factory code NA.",
+      "In Japan I was sold as the Eunos Roadster.",
+      "My round pop-up headlights define my face.",
+      "I am the Mazda MX-5 Miata."
+    ],
+    "image": "assets/cars/mazda-mx5-na-1990.jpg",
+    "alt": "White compact 1990s roadster with raised pop-up headlights",
+    "imageCredit": "MercurySable99 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_Miata,_front_left,_06-08-2024.jpg"
+  },
+  {
+    "id": "nsx-1993",
+    "make": "Honda",
+    "model": "NSX",
+    "displayName": "1993 Honda NSX",
+    "acceptedNames": [
+      "Honda NSX",
+      "Acura NSX",
+      "NSX",
+      "Honda Acura NSX"
+    ],
+    "yearLabel": "1993",
+    "year": 1993,
+    "familyModel": "NSX",
+    "region": "japan",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My all-aluminum monocoque was a production-car first.",
+      "Ayrton Senna helped with development feedback.",
+      "My naturally aspirated V6 sits behind the seats.",
+      "I wore an Acura badge in North America and a Honda badge elsewhere.",
+      "I am the first-generation Honda NSX."
+    ],
+    "image": "assets/cars/honda-nsx-first-gen.jpg",
+    "alt": "Red low-slung 1990s Japanese mid-engine coupe",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1993_Honda_NSX_2.jpg"
+  },
+  {
+    "id": "supra-a80",
+    "make": "Toyota",
+    "model": "Supra A80 SZ",
+    "displayName": "Toyota Supra A80 SZ",
+    "acceptedNames": [
+      "Toyota Supra",
+      "Supra",
+      "Toyota Supra A80",
+      "Supra A80",
+      "Toyota Supra Mk IV",
+      "Toyota Supra Mk4",
+      "Supra Mk4"
+    ],
+    "yearLabel": "1993",
+    "year": 1993,
+    "familyModel": "Supra",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "I am the fourth generation of a Japanese grand-tourer line.",
+      "Fans know my chassis code as A80.",
+      "My turbo sibling used the 2JZ-GTE inline-six.",
+      "My large arched rear wing became a 1990s signature.",
+      "I am the Toyota Supra Mk IV."
+    ],
+    "image": "assets/cars/toyota-supra-a80.jpg",
+    "alt": "Red rounded 1990s Japanese grand-tourer in a parking lot",
+    "imageCredit": "Tokumeigakarinoaoshima / Wikimedia Commons",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Supra_SZ_(A80)_front.jpg"
+  },
+  {
+    "id": "testarossa-1987",
+    "make": "Ferrari",
+    "model": "Testarossa Monodado",
+    "displayName": "1987 Ferrari Testarossa Monodado",
+    "acceptedNames": [
+      "Ferrari Testarossa",
+      "Testarossa",
+      "Ferrari Testarossa Monodado"
+    ],
+    "yearLabel": "1987",
+    "year": 1987,
+    "familyModel": "Testarossa",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "Pininfarina gave me dramatic side strakes.",
+      "My name recalls red-painted cylinder heads on historic racing engines.",
+      "A mid-mounted flat-12 powers me.",
+      "I became a defining poster car of the 1980s.",
+      "I am the Ferrari Testarossa."
+    ],
+    "image": "assets/cars/ferrari-testarossa-1987.jpg",
+    "alt": "Red wide-bodied 1980s Italian supercar viewed from the front",
+    "imageCredit": "MrWalkr / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_Monodado.jpg"
+  },
+  {
+    "id": "porsche-911s-1967",
+    "make": "Porsche",
+    "model": "911 S",
+    "displayName": "1967 Porsche 911 S",
+    "acceptedNames": [
+      "Porsche 911",
+      "911",
+      "Porsche 911 S",
+      "911 S",
+      "1967 Porsche 911"
+    ],
+    "yearLabel": "1967",
+    "year": 1967,
+    "familyModel": "911",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "rear",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My basic silhouette has evolved continuously since the 1960s.",
+      "My air-cooled flat-six hangs behind the rear axle.",
+      "This short-wheelbase example is the high-performance S version.",
+      "Five round instruments face the driver.",
+      "I am an early Porsche 911."
+    ],
+    "image": "assets/cars/porsche-911s-1967.jpg",
+    "alt": "Black compact 1960s German sports coupe viewed from the front",
+    "imageCredit": "MrWalkr / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1967_Porsche_911_S_black.jpg"
+  },
+  {
+    "id": "ferrari-f40-1989",
+    "make": "Ferrari",
+    "model": "F40",
+    "displayName": "1989 Ferrari F40",
+    "acceptedNames": [
+      "Ferrari F40",
+      "F40",
+      "1989 Ferrari F40"
+    ],
+    "yearLabel": "1989",
+    "year": 1989,
+    "familyModel": "F40",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Ferrari, and my model family is F40.",
+      "I am the 1989 Ferrari F40."
+    ],
+    "image": "assets/cars/ferrari-f40-1989.jpg",
+    "alt": "A documented 1980s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_1.jpg"
+  },
+  {
+    "id": "ferrari-f50-1996",
+    "make": "Ferrari",
+    "model": "F50",
+    "displayName": "1996 Ferrari F50",
+    "acceptedNames": [
+      "Ferrari F50",
+      "F50",
+      "1996 Ferrari F50"
+    ],
+    "yearLabel": "1996",
+    "year": 1996,
+    "familyModel": "F50",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a roadster, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Ferrari, and my model family is F50.",
+      "I am the 1996 Ferrari F50."
+    ],
+    "image": "assets/cars/ferrari-f50-1996.jpg",
+    "alt": "A documented 1990s roadster photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1996_Ferrari_F50_2.jpg"
+  },
+  {
+    "id": "ferrari-enzo-2003",
+    "make": "Ferrari",
+    "model": "Enzo",
+    "displayName": "2003 Ferrari Enzo",
+    "acceptedNames": [
+      "Ferrari Enzo",
+      "Enzo",
+      "2003 Ferrari Enzo"
+    ],
+    "yearLabel": "2003",
+    "year": 2003,
+    "familyModel": "Enzo",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Ferrari, and my model family is Enzo.",
+      "I am the 2003 Ferrari Enzo."
+    ],
+    "image": "assets/cars/ferrari-enzo-2003.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2003_Enzo_Ferrari_at_Greenwich_2018,_front_right.jpg"
+  },
+  {
+    "id": "ferrari-laferrari-2014",
+    "make": "Ferrari",
+    "model": "LaFerrari",
+    "displayName": "2014 Ferrari LaFerrari",
+    "acceptedNames": [
+      "Ferrari LaFerrari",
+      "LaFerrari",
+      "2014 Ferrari LaFerrari"
+    ],
+    "yearLabel": "2014",
+    "year": 2014,
+    "familyModel": "LaFerrari",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Ferrari, and my model family is LaFerrari.",
+      "I am the 2014 Ferrari LaFerrari."
+    ],
+    "image": "assets/cars/ferrari-laferrari-2014.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_LaFerrari_in_Nero_DS_and_Silver,_rear_left.jpg"
+  },
+  {
+    "id": "ferrari-458-italia-2011",
+    "make": "Ferrari",
+    "model": "458 Italia",
+    "displayName": "2011 Ferrari 458 Italia",
+    "acceptedNames": [
+      "Ferrari 458 Italia",
+      "458 Italia",
+      "2011 Ferrari 458 Italia"
+    ],
+    "yearLabel": "2011",
+    "year": 2011,
+    "familyModel": "458 Italia",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Ferrari, and my model family is 458 Italia.",
+      "I am the 2011 Ferrari 458 Italia."
+    ],
+    "image": "assets/cars/ferrari-458-italia-2011.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "Vauxford / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2011_Ferrari_458_Italia_DCT_S-A_4.5_Front.jpg"
+  },
+  {
+    "id": "ferrari-288-gto-1984",
+    "make": "Ferrari",
+    "model": "288 GTO",
+    "displayName": "1984 Ferrari 288 GTO",
+    "acceptedNames": [
+      "Ferrari 288 GTO",
+      "288 GTO",
+      "1984 Ferrari 288 GTO"
+    ],
+    "yearLabel": "1984",
+    "year": 1984,
+    "familyModel": "288 GTO",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Ferrari, and my model family is 288 GTO.",
+      "I am the 1984 Ferrari 288 GTO."
+    ],
+    "image": "assets/cars/ferrari-288-gto-1984.jpg",
+    "alt": "A documented 1980s coupe photographed from an exterior angle",
+    "imageCredit": "TTTNIS / Wikimedia Commons",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1984_Ferrari_288_GTO_front.jpg"
+  },
+  {
+    "id": "lamborghini-miura-1968",
+    "make": "Lamborghini",
+    "model": "Miura P400 S",
+    "displayName": "1968 Lamborghini Miura P400 S",
+    "acceptedNames": [
+      "Lamborghini Miura",
+      "Lamborghini Miura P400 S",
+      "Miura",
+      "Miura P400 S",
+      "1968 Lamborghini Miura P400 S"
+    ],
+    "yearLabel": "1968",
+    "year": 1968,
+    "familyModel": "Miura",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Lamborghini, and my model family is Miura.",
+      "I am the 1968 Lamborghini Miura P400 S."
+    ],
+    "image": "assets/cars/lamborghini-miura-1968.jpg",
+    "alt": "A documented 1960s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Mirua_P400_S_1968_1.jpg"
+  },
+  {
+    "id": "lamborghini-diablo-1992",
+    "make": "Lamborghini",
+    "model": "Diablo",
+    "displayName": "1992 Lamborghini Diablo",
+    "acceptedNames": [
+      "Lamborghini Diablo",
+      "Diablo",
+      "1992 Lamborghini Diablo"
+    ],
+    "yearLabel": "1992",
+    "year": 1992,
+    "familyModel": "Diablo",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Lamborghini, and my model family is Diablo.",
+      "I am the 1992 Lamborghini Diablo."
+    ],
+    "image": "assets/cars/lamborghini-diablo-1992.jpg",
+    "alt": "A documented 1990s coupe photographed from an exterior angle",
+    "imageCredit": "Charles from Port Chester, New York / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_(1992)_(54093507971).jpg"
+  },
+  {
+    "id": "lamborghini-murcielago-2004",
+    "make": "Lamborghini",
+    "model": "Murcielago",
+    "displayName": "2004 Lamborghini Murcielago",
+    "acceptedNames": [
+      "Lamborghini Murcielago",
+      "Murcielago",
+      "2004 Lamborghini Murcielago"
+    ],
+    "yearLabel": "2004",
+    "year": 2004,
+    "familyModel": "Murcielago",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "all"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to all four wheels.",
+      "My badge comes from Lamborghini, and my model family is Murcielago.",
+      "I am the 2004 Lamborghini Murcielago."
+    ],
+    "image": "assets/cars/lamborghini-murcielago-2004.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2004_Lamborghini_Murcielago_3.jpg"
+  },
+  {
+    "id": "lamborghini-aventador-2012",
+    "make": "Lamborghini",
+    "model": "Aventador LP700-4",
+    "displayName": "2012 Lamborghini Aventador LP700-4",
+    "acceptedNames": [
+      "Lamborghini Aventador",
+      "Lamborghini Aventador LP700-4",
+      "Aventador",
+      "Aventador LP700-4",
+      "2012 Lamborghini Aventador LP700-4"
+    ],
+    "yearLabel": "2012",
+    "year": 2012,
+    "familyModel": "Aventador",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "all"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to all four wheels.",
+      "My badge comes from Lamborghini, and my model family is Aventador.",
+      "I am the 2012 Lamborghini Aventador LP700-4."
+    ],
+    "image": "assets/cars/lamborghini-aventador-2012.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012_Lamborghini_Aventador_1.jpg"
+  },
+  {
+    "id": "lamborghini-huracan-2015",
+    "make": "Lamborghini",
+    "model": "Huracan LP610-4",
+    "displayName": "2015 Lamborghini Huracan LP610-4",
+    "acceptedNames": [
+      "Lamborghini Huracan",
+      "Lamborghini Huracan LP610-4",
+      "Huracan",
+      "Huracan LP610-4",
+      "2015 Lamborghini Huracan LP610-4"
+    ],
+    "yearLabel": "2015",
+    "year": 2015,
+    "familyModel": "Huracan",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 10,
+      "drivenWheels": "all"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 10-cylinder engine and send power to all four wheels.",
+      "My badge comes from Lamborghini, and my model family is Huracan.",
+      "I am the 2015 Lamborghini Huracan LP610-4."
+    ],
+    "image": "assets/cars/lamborghini-huracan-2015.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "Edvvc from London, UK / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Lamborghini_Huracan_LP610-4_(19884965832).jpg"
+  },
+  {
+    "id": "lamborghini-gallardo-2008",
+    "make": "Lamborghini",
+    "model": "Gallardo Spyder",
+    "displayName": "2008 Lamborghini Gallardo Spyder",
+    "acceptedNames": [
+      "Lamborghini Gallardo",
+      "Lamborghini Gallardo Spyder",
+      "Gallardo",
+      "Gallardo Spyder",
+      "2008 Lamborghini Gallardo Spyder"
+    ],
+    "yearLabel": "2008",
+    "year": 2008,
+    "familyModel": "Gallardo",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "mid",
+      "cylinders": 10,
+      "drivenWheels": "all"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a roadster, with a mid-mounted engine.",
+      "I use a 10-cylinder engine and send power to all four wheels.",
+      "My badge comes from Lamborghini, and my model family is Gallardo.",
+      "I am the 2008 Lamborghini Gallardo Spyder."
+    ],
+    "image": "assets/cars/lamborghini-gallardo-2008.jpg",
+    "alt": "A documented 2000s roadster photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008_Lamborghini_Gallardo_Spyder.jpg"
+  },
+  {
+    "id": "porsche-959-1987",
+    "make": "Porsche",
+    "model": "959",
+    "displayName": "1987 Porsche 959",
+    "acceptedNames": [
+      "Porsche 959",
+      "959",
+      "1987 Porsche 959"
+    ],
+    "yearLabel": "1987",
+    "year": 1987,
+    "familyModel": "959",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "rear",
+      "cylinders": 6,
+      "drivenWheels": "all"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a coupe, with a rear-mounted engine.",
+      "I use a 6-cylinder engine and send power to all four wheels.",
+      "My badge comes from Porsche, and my model family is 959.",
+      "I am the 1987 Porsche 959."
+    ],
+    "image": "assets/cars/porsche-959-1987.jpg",
+    "alt": "A documented 1980s coupe photographed from an exterior angle",
+    "imageCredit": "Charles from Port Chester, New York / Wikimedia Commons",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_959_(1987)_(55221856839).jpg"
+  },
+  {
+    "id": "porsche-carrera-gt-2005",
+    "make": "Porsche",
+    "model": "Carrera GT",
+    "displayName": "2005 Porsche Carrera GT",
+    "acceptedNames": [
+      "Porsche Carrera GT",
+      "Carrera GT",
+      "2005 Porsche Carrera GT"
+    ],
+    "yearLabel": "2005",
+    "year": 2005,
+    "familyModel": "Carrera GT",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "mid",
+      "cylinders": 10,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a roadster, with a mid-mounted engine.",
+      "I use a 10-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Porsche, and my model family is Carrera GT.",
+      "I am the 2005 Porsche Carrera GT."
+    ],
+    "image": "assets/cars/porsche-carrera-gt-2005.jpg",
+    "alt": "A documented 2000s roadster photographed from an exterior angle",
+    "imageCredit": "MrWalkr / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2005_Porsche_Carrera_GT_Silver.jpg"
+  },
+  {
+    "id": "porsche-918-spyder-2015",
+    "make": "Porsche",
+    "model": "918 Spyder",
+    "displayName": "2015 Porsche 918 Spyder",
+    "acceptedNames": [
+      "Porsche 918 Spyder",
+      "918 Spyder",
+      "2015 Porsche 918 Spyder"
+    ],
+    "yearLabel": "2015",
+    "year": 2015,
+    "familyModel": "918 Spyder",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "all"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a roadster, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to all four wheels.",
+      "My badge comes from Porsche, and my model family is 918 Spyder.",
+      "I am the 2015 Porsche 918 Spyder."
+    ],
+    "image": "assets/cars/porsche-918-spyder-2015.jpg",
+    "alt": "A documented 2010s roadster photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Porsche_918_Spyder_(33939).jpg"
+  },
+  {
+    "id": "mclaren-f1-1996",
+    "make": "McLaren",
+    "model": "F1",
+    "displayName": "1996 McLaren F1",
+    "acceptedNames": [
+      "McLaren F1",
+      "F1",
+      "1996 McLaren F1"
+    ],
+    "yearLabel": "1996",
+    "year": 1996,
+    "familyModel": "F1",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My marque comes from United Kingdom.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from McLaren, and my model family is F1.",
+      "I am the 1996 McLaren F1."
+    ],
+    "image": "assets/cars/mclaren-f1-1996.jpg",
+    "alt": "A documented 1990s coupe photographed from an exterior angle",
+    "imageCredit": "Chelsea Jay / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg"
+  },
+  {
+    "id": "mclaren-p1-2014",
+    "make": "McLaren",
+    "model": "P1 HDK",
+    "displayName": "2014 McLaren P1 HDK",
+    "acceptedNames": [
+      "McLaren P1",
+      "McLaren P1 HDK",
+      "P1",
+      "P1 HDK",
+      "2014 McLaren P1 HDK"
+    ],
+    "yearLabel": "2014",
+    "year": 2014,
+    "familyModel": "P1",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My marque comes from United Kingdom.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from McLaren, and my model family is P1.",
+      "I am the 2014 McLaren P1 HDK."
+    ],
+    "image": "assets/cars/mclaren-p1-2014.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "MrWalkr / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_McLaren_P1_HDK_Side.jpg"
+  },
+  {
+    "id": "mclaren-720s-2018",
+    "make": "McLaren",
+    "model": "720S",
+    "displayName": "2018 McLaren 720S",
+    "acceptedNames": [
+      "McLaren 720S",
+      "720S",
+      "2018 McLaren 720S"
+    ],
+    "yearLabel": "2018",
+    "year": 2018,
+    "familyModel": "720S",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My marque comes from United Kingdom.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from McLaren, and my model family is 720S.",
+      "I am the 2018 McLaren 720S."
+    ],
+    "image": "assets/cars/mclaren-720s-2018.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018_McLaren_720S_in_Azores_Orange,_front_right.jpg"
+  },
+  {
+    "id": "bugatti-veyron-2008",
+    "make": "Bugatti",
+    "model": "Veyron 16.4",
+    "displayName": "2008 Bugatti Veyron 16.4",
+    "acceptedNames": [
+      "Bugatti Veyron",
+      "Bugatti Veyron 16.4",
+      "Veyron",
+      "Veyron 16.4",
+      "2008 Bugatti Veyron 16.4"
+    ],
+    "yearLabel": "2008",
+    "year": 2008,
+    "familyModel": "Veyron",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 16,
+      "drivenWheels": "all"
+    },
+    "country": "France",
+    "clueSteps": [
+      "My marque comes from France.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 16-cylinder engine and send power to all four wheels.",
+      "My badge comes from Bugatti, and my model family is Veyron.",
+      "I am the 2008 Bugatti Veyron 16.4."
+    ],
+    "image": "assets/cars/bugatti-veyron-2008.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008_Bugatti_Veyron_16.4_in_Blue_and_Silver,_rear_left_(New_Canaan).jpg"
+  },
+  {
+    "id": "bugatti-chiron-2018",
+    "make": "Bugatti",
+    "model": "Chiron",
+    "displayName": "2018 Bugatti Chiron",
+    "acceptedNames": [
+      "Bugatti Chiron",
+      "Chiron",
+      "2018 Bugatti Chiron"
+    ],
+    "yearLabel": "2018",
+    "year": 2018,
+    "familyModel": "Chiron",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 16,
+      "drivenWheels": "all"
+    },
+    "country": "France",
+    "clueSteps": [
+      "My marque comes from France.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 16-cylinder engine and send power to all four wheels.",
+      "My badge comes from Bugatti, and my model family is Chiron.",
+      "I am the 2018 Bugatti Chiron."
+    ],
+    "image": "assets/cars/bugatti-chiron-2018.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "Ank Kumar / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018_Blue_Bugatti_Chiron_at_Grand_Basel_(Ank_Kumar)_08.jpg"
+  },
+  {
+    "id": "pagani-zonda-2005",
+    "make": "Pagani",
+    "model": "Zonda S Roadster",
+    "displayName": "2005 Pagani Zonda S Roadster",
+    "acceptedNames": [
+      "Pagani Zonda",
+      "Pagani Zonda S Roadster",
+      "Zonda",
+      "Zonda S Roadster",
+      "2005 Pagani Zonda S Roadster"
+    ],
+    "yearLabel": "2005",
+    "year": 2005,
+    "familyModel": "Zonda",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a roadster, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Pagani, and my model family is Zonda.",
+      "I am the 2005 Pagani Zonda S Roadster."
+    ],
+    "image": "assets/cars/pagani-zonda-2005.jpg",
+    "alt": "A documented 2000s roadster photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2005_Pagani_Zonda_S_Roadster_2.jpg"
+  },
+  {
+    "id": "koenigsegg-ccx-2008",
+    "make": "Koenigsegg",
+    "model": "CCX Edition",
+    "displayName": "2008 Koenigsegg CCX Edition",
+    "acceptedNames": [
+      "Koenigsegg CCX",
+      "Koenigsegg CCX Edition",
+      "CCX",
+      "CCX Edition",
+      "2008 Koenigsegg CCX Edition"
+    ],
+    "yearLabel": "2008",
+    "year": 2008,
+    "familyModel": "CCX",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "Sweden",
+    "clueSteps": [
+      "My marque comes from Sweden.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Koenigsegg, and my model family is CCX.",
+      "I am the 2008 Koenigsegg CCX Edition."
+    ],
+    "image": "assets/cars/koenigsegg-ccx-2008.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008_Koenigsegg_CCX_Edition_no.1,_front_right.jpg"
+  },
+  {
+    "id": "maserati-mc12-2005",
+    "make": "Maserati",
+    "model": "MC12 GT1",
+    "displayName": "2005 Maserati MC12 GT1",
+    "acceptedNames": [
+      "Maserati MC12",
+      "Maserati MC12 GT1",
+      "MC12",
+      "MC12 GT1",
+      "2005 Maserati MC12 GT1"
+    ],
+    "yearLabel": "2005",
+    "year": 2005,
+    "familyModel": "MC12",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Maserati, and my model family is MC12.",
+      "I am the 2005 Maserati MC12 GT1."
+    ],
+    "image": "assets/cars/maserati-mc12-2005.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2005_Maserati_MC12_GT1.jpg"
+  },
+  {
+    "id": "aston-martin-valkyrie-2023",
+    "make": "Aston Martin",
+    "model": "Valkyrie",
+    "displayName": "2023 Aston Martin Valkyrie",
+    "acceptedNames": [
+      "Aston Martin Valkyrie",
+      "Valkyrie",
+      "2023 Aston Martin Valkyrie"
+    ],
+    "yearLabel": "2023",
+    "year": 2023,
+    "familyModel": "Valkyrie",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 12,
+      "drivenWheels": "rear"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My marque comes from United Kingdom.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 12-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Aston Martin, and my model family is Valkyrie.",
+      "I am the 2023 Aston Martin Valkyrie."
+    ],
+    "image": "assets/cars/aston-martin-valkyrie-2023.jpg",
+    "alt": "A documented 2020s coupe photographed from an exterior angle",
+    "imageCredit": "MrWalkr / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear_O.jpg"
+  },
+  {
+    "id": "mercedes-sls-amg-2011",
+    "make": "Mercedes-Benz",
+    "model": "SLS AMG",
+    "displayName": "2011 Mercedes-Benz SLS AMG",
+    "acceptedNames": [
+      "Mercedes-Benz SLS AMG",
+      "SLS AMG",
+      "2011 Mercedes-Benz SLS AMG",
+      "Mercedes SLS AMG"
+    ],
+    "yearLabel": "2011",
+    "year": 2011,
+    "familyModel": "SLS AMG",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Mercedes-Benz, and my model family is SLS AMG.",
+      "I am the 2011 Mercedes-Benz SLS AMG."
+    ],
+    "image": "assets/cars/mercedes-sls-amg-2011.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "MrWalkr / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2011_Mercedes-Benz_SLS_AMG_LC22_Front.jpg"
+  },
+  {
+    "id": "audi-r8-v10-2017",
+    "make": "Audi",
+    "model": "R8 V10",
+    "displayName": "2017 Audi R8 V10",
+    "acceptedNames": [
+      "Audi R8",
+      "Audi R8 V10",
+      "R8",
+      "R8 V10",
+      "2017 Audi R8 V10"
+    ],
+    "yearLabel": "2017",
+    "year": 2017,
+    "familyModel": "R8",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 10,
+      "drivenWheels": "all"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 10-cylinder engine and send power to all four wheels.",
+      "My badge comes from Audi, and my model family is R8.",
+      "I am the 2017 Audi R8 V10."
+    ],
+    "image": "assets/cars/audi-r8-v10-2017.jpg",
+    "alt": "A documented 2010s coupe photographed from an exterior angle",
+    "imageCredit": "Ethan Llamas / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Audi_R8_V10_Plus_quattro_in_Ibis_White,_front_right,_08-03-2024.jpg"
+  },
+  {
+    "id": "bmw-m1-1980",
+    "make": "BMW",
+    "model": "M1 Procar",
+    "displayName": "1980 BMW M1 Procar",
+    "acceptedNames": [
+      "BMW M1",
+      "BMW M1 Procar",
+      "M1",
+      "M1 Procar",
+      "1980 BMW M1 Procar"
+    ],
+    "yearLabel": "1980",
+    "year": 1980,
+    "familyModel": "M1",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 6-cylinder engine and send power to the rear wheels.",
+      "My badge comes from BMW, and my model family is M1.",
+      "I am the 1980 BMW M1 Procar."
+    ],
+    "image": "assets/cars/bmw-m1-1980.jpg",
+    "alt": "A documented 1980s coupe photographed from an exterior angle",
+    "imageCredit": "Vauxford / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1980_BMW_M1_(BMW_Motorsport_M1_Procar_body)_Front.jpg"
+  },
+  {
+    "id": "lotus-esprit-1981",
+    "make": "Lotus",
+    "model": "Esprit Turbo",
+    "displayName": "1981 Lotus Esprit Turbo",
+    "acceptedNames": [
+      "Lotus Esprit",
+      "Lotus Esprit Turbo",
+      "Esprit",
+      "Esprit Turbo",
+      "1981 Lotus Esprit Turbo"
+    ],
+    "yearLabel": "1981",
+    "year": 1981,
+    "familyModel": "Esprit",
+    "region": "europe",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My marque comes from United Kingdom.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Lotus, and my model family is Esprit.",
+      "I am the 1981 Lotus Esprit Turbo."
+    ],
+    "image": "assets/cars/lotus-esprit-1981.jpg",
+    "alt": "A documented 1980s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1981_Lotus_Esprit_Turbo.jpg"
+  },
+  {
+    "id": "citroen-2cv-1966",
+    "make": "Citroen",
+    "model": "2CV AZAM",
+    "displayName": "1966 Citroen 2CV AZAM",
+    "acceptedNames": [
+      "Citroen 2CV",
+      "Citroen 2CV AZAM",
+      "2CV",
+      "2CV AZAM",
+      "1966 Citroen 2CV AZAM",
+      "Citroën 2CV",
+      "Citroën 2CV AZAM"
+    ],
+    "yearLabel": "1966",
+    "year": 1966,
+    "familyModel": "2CV",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 2,
+      "drivenWheels": "front"
+    },
+    "country": "France",
+    "clueSteps": [
+      "My marque comes from France.",
+      "My body style is a sedan, with a front-mounted engine.",
+      "I use a 2-cylinder engine and send power to the front wheels.",
+      "My badge comes from Citroen, and my model family is 2CV.",
+      "I am the 1966 Citroen 2CV AZAM."
+    ],
+    "image": "assets/cars/citroen-2cv-1966.jpg",
+    "alt": "A documented 1960s sedan photographed from an exterior angle",
+    "imageCredit": "Llann Wé² / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:W9491_Citroen_2CV_AZAM_1966_ED_Landreau_Briace_ACAL2026_20260607_103548577PXL.jpg"
+  },
+  {
+    "id": "citroen-ds-1972",
+    "make": "Citroen",
+    "model": "DS 23 Pallas",
+    "displayName": "1972 Citroen DS 23 Pallas",
+    "acceptedNames": [
+      "Citroen DS",
+      "Citroen DS 23 Pallas",
+      "DS",
+      "DS 23 Pallas",
+      "1972 Citroen DS 23 Pallas",
+      "Citroën DS",
+      "Citroën DS 23 Pallas"
+    ],
+    "yearLabel": "1972",
+    "year": 1972,
+    "familyModel": "DS",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "front"
+    },
+    "country": "France",
+    "clueSteps": [
+      "My marque comes from France.",
+      "My body style is a sedan, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the front wheels.",
+      "My badge comes from Citroen, and my model family is DS.",
+      "I am the 1972 Citroen DS 23 Pallas."
+    ],
+    "image": "assets/cars/citroen-ds-1972.jpg",
+    "alt": "A documented 1970s sedan photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1972_Citroen_DS_23_Pallas_Hydraulic.jpg"
+  },
+  {
+    "id": "renault-5-turbo-1982",
+    "make": "Renault",
+    "model": "5 Turbo",
+    "displayName": "1982 Renault 5 Turbo",
+    "acceptedNames": [
+      "Renault 5 Turbo",
+      "5 Turbo",
+      "1982 Renault 5 Turbo"
+    ],
+    "yearLabel": "1982",
+    "year": 1982,
+    "familyModel": "5 Turbo",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "hatchback",
+      "engineLayout": "mid",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "France",
+    "clueSteps": [
+      "My marque comes from France.",
+      "My body style is a hatchback, with a mid-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Renault, and my model family is 5 Turbo.",
+      "I am the 1982 Renault 5 Turbo."
+    ],
+    "image": "assets/cars/renault-5-turbo-1982.jpg",
+    "alt": "A documented 1980s hatchback photographed from an exterior angle",
+    "imageCredit": "PLawrence99cx / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1982_Renault_5_Turbo_in_Beverly_Hills_June_2023_front.jpg"
+  },
+  {
+    "id": "peugeot-205-gti-1988",
+    "make": "Peugeot",
+    "model": "205 GTI",
+    "displayName": "1988 Peugeot 205 GTI",
+    "acceptedNames": [
+      "Peugeot 205",
+      "Peugeot 205 GTI",
+      "205",
+      "205 GTI",
+      "1988 Peugeot 205 GTI"
+    ],
+    "yearLabel": "1988",
+    "year": 1988,
+    "familyModel": "205",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "hatchback",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "front"
+    },
+    "country": "France",
+    "clueSteps": [
+      "My marque comes from France.",
+      "My body style is a hatchback, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the front wheels.",
+      "My badge comes from Peugeot, and my model family is 205.",
+      "I am the 1988 Peugeot 205 GTI."
+    ],
+    "image": "assets/cars/peugeot-205-gti-1988.jpg",
+    "alt": "A documented 1980s hatchback photographed from an exterior angle",
+    "imageCredit": "Jeremy from Sydney, Australia / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1988_Peugeot_205_GTi_3-door_hatchback_(19634964218).jpg"
+  },
+  {
+    "id": "fiat-500-1969",
+    "make": "Fiat",
+    "model": "500 L",
+    "displayName": "1969 Fiat 500 L",
+    "acceptedNames": [
+      "Fiat 500",
+      "Fiat 500 L",
+      "500",
+      "500 L",
+      "1969 Fiat 500 L"
+    ],
+    "yearLabel": "1969",
+    "year": 1969,
+    "familyModel": "500",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "hatchback",
+      "engineLayout": "rear",
+      "cylinders": 2,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a hatchback, with a rear-mounted engine.",
+      "I use a 2-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Fiat, and my model family is 500.",
+      "I am the 1969 Fiat 500 L."
+    ],
+    "image": "assets/cars/fiat-500-1969.jpg",
+    "alt": "A documented 1960s hatchback photographed from an exterior angle",
+    "imageCredit": "Rutger van der Maar / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1969_Fiat_500_L_rear.jpg"
+  },
+  {
+    "id": "alfa-romeo-spider-1974",
+    "make": "Alfa Romeo",
+    "model": "Spider 2000 Veloce",
+    "displayName": "1974 Alfa Romeo Spider 2000 Veloce",
+    "acceptedNames": [
+      "Alfa Romeo Spider",
+      "Alfa Romeo Spider 2000 Veloce",
+      "Spider",
+      "Spider 2000 Veloce",
+      "1974 Alfa Romeo Spider 2000 Veloce",
+      "Alfa Spider",
+      "Alfa Spider 2000 Veloce"
+    ],
+    "yearLabel": "1974",
+    "year": 1974,
+    "familyModel": "Spider",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a roadster, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Alfa Romeo, and my model family is Spider.",
+      "I am the 1974 Alfa Romeo Spider 2000 Veloce."
+    ],
+    "image": "assets/cars/alfa-romeo-spider-1974.jpg",
+    "alt": "A documented 1970s roadster photographed from an exterior angle",
+    "imageCredit": "Charles from Port Chester, New York / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Spider_2000_Veloce_(1974)_(54523395088).jpg"
+  },
+  {
+    "id": "volvo-240-1989",
+    "make": "Volvo",
+    "model": "240 DL Wagon",
+    "displayName": "1989 Volvo 240 DL Wagon",
+    "acceptedNames": [
+      "Volvo 240",
+      "Volvo 240 DL Wagon",
+      "240",
+      "240 DL Wagon",
+      "1989 Volvo 240 DL Wagon"
+    ],
+    "yearLabel": "1989",
+    "year": 1989,
+    "familyModel": "240",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "wagon",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Sweden",
+    "clueSteps": [
+      "My marque comes from Sweden.",
+      "My body style is a wagon, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Volvo, and my model family is 240.",
+      "I am the 1989 Volvo 240 DL Wagon."
+    ],
+    "image": "assets/cars/volvo-240-1989.jpg",
+    "alt": "A documented 1980s wagon photographed from an exterior angle",
+    "imageCredit": "MercurySable99 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1989_Volvo_240_DL_Wagon,_front_right,_11-13-2022.jpg"
+  },
+  {
+    "id": "saab-900-turbo-1987",
+    "make": "Saab",
+    "model": "900 Turbo Convertible",
+    "displayName": "1987 Saab 900 Turbo Convertible",
+    "acceptedNames": [
+      "Saab 900",
+      "Saab 900 Turbo Convertible",
+      "900",
+      "900 Turbo Convertible",
+      "1987 Saab 900 Turbo Convertible"
+    ],
+    "yearLabel": "1987",
+    "year": 1987,
+    "familyModel": "900",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "convertible",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "front"
+    },
+    "country": "Sweden",
+    "clueSteps": [
+      "My marque comes from Sweden.",
+      "My body style is a convertible, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the front wheels.",
+      "My badge comes from Saab, and my model family is 900.",
+      "I am the 1987 Saab 900 Turbo Convertible."
+    ],
+    "image": "assets/cars/saab-900-turbo-1987.jpg",
+    "alt": "A documented 1980s convertible photographed from an exterior angle",
+    "imageCredit": "Jeremy from Sydney, Australia / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1987_Saab_900_Turbo_convertible_(24311426335).jpg"
+  },
+  {
+    "id": "bmw-2002-1972",
+    "make": "BMW",
+    "model": "2002",
+    "displayName": "1972 BMW 2002",
+    "acceptedNames": [
+      "BMW 2002",
+      "2002",
+      "1972 BMW 2002"
+    ],
+    "yearLabel": "1972",
+    "year": 1972,
+    "familyModel": "2002",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a sedan, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from BMW, and my model family is 2002.",
+      "I am the 1972 BMW 2002."
+    ],
+    "image": "assets/cars/bmw-2002-1972.jpg",
+    "alt": "A documented 1970s sedan photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1972_BMW_2002_1.jpg"
+  },
+  {
+    "id": "bmw-m3-e30-1988",
+    "make": "BMW",
+    "model": "M3 E30",
+    "displayName": "1988 BMW M3 E30",
+    "acceptedNames": [
+      "BMW M3",
+      "BMW M3 E30",
+      "M3",
+      "M3 E30",
+      "1988 BMW M3 E30"
+    ],
+    "yearLabel": "1988",
+    "year": 1988,
+    "familyModel": "M3",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a sedan, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from BMW, and my model family is M3.",
+      "I am the 1988 BMW M3 E30."
+    ],
+    "image": "assets/cars/bmw-m3-e30-1988.jpg",
+    "alt": "A documented 1980s sedan photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1988_BMW_M3_in_Greenpoint,_front_right.jpg"
+  },
+  {
+    "id": "mercedes-300sl-1955",
+    "make": "Mercedes-Benz",
+    "model": "300 SL Gullwing",
+    "displayName": "1955 Mercedes-Benz 300 SL Gullwing",
+    "acceptedNames": [
+      "Mercedes-Benz 300 SL",
+      "Mercedes-Benz 300 SL Gullwing",
+      "300 SL",
+      "300 SL Gullwing",
+      "1955 Mercedes-Benz 300 SL Gullwing",
+      "Mercedes 300 SL",
+      "Mercedes 300 SL Gullwing"
+    ],
+    "yearLabel": "1955",
+    "year": 1955,
+    "familyModel": "300 SL",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 6-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Mercedes-Benz, and my model family is 300 SL.",
+      "I am the 1955 Mercedes-Benz 300 SL Gullwing."
+    ],
+    "image": "assets/cars/mercedes-300sl-1955.jpg",
+    "alt": "A documented 1950s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1955_Mercedes_300_SL_Gullwing_2.jpg"
+  },
+  {
+    "id": "mercedes-w123-1982",
+    "make": "Mercedes-Benz",
+    "model": "200 D (W123)",
+    "displayName": "1982 Mercedes-Benz 200 D (W123)",
+    "acceptedNames": [
+      "Mercedes-Benz W123",
+      "Mercedes-Benz 200 D (W123)",
+      "W123",
+      "200 D (W123)",
+      "1982 Mercedes-Benz 200 D (W123)",
+      "Mercedes W123",
+      "Mercedes 200 D (W123)"
+    ],
+    "yearLabel": "1982",
+    "year": 1982,
+    "familyModel": "W123",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a sedan, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Mercedes-Benz, and my model family is W123.",
+      "I am the 1982 Mercedes-Benz 200 D (W123)."
+    ],
+    "image": "assets/cars/mercedes-w123-1982.jpg",
+    "alt": "A documented 1980s sedan photographed from an exterior angle",
+    "imageCredit": "Rutger van der Maar / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1982_Mercedes-Benz_200_D_(W123)_front.jpg"
+  },
+  {
+    "id": "audi-quattro-1983",
+    "make": "Audi",
+    "model": "Quattro",
+    "displayName": "1983 Audi Quattro",
+    "acceptedNames": [
+      "Audi Quattro",
+      "Quattro",
+      "1983 Audi Quattro"
+    ],
+    "yearLabel": "1983",
+    "year": 1983,
+    "familyModel": "Quattro",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 5,
+      "drivenWheels": "all"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 5-cylinder engine and send power to all four wheels.",
+      "My badge comes from Audi, and my model family is Quattro.",
+      "I am the 1983 Audi Quattro."
+    ],
+    "image": "assets/cars/audi-quattro-1983.jpg",
+    "alt": "A documented 1980s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1983_Audi_Quattro_Rally_2.jpg"
+  },
+  {
+    "id": "land-rover-defender-1997",
+    "make": "Land Rover",
+    "model": "Defender 90 300Tdi",
+    "displayName": "1997 Land Rover Defender 90 300Tdi",
+    "acceptedNames": [
+      "Land Rover Defender",
+      "Land Rover Defender 90 300Tdi",
+      "Defender",
+      "Defender 90 300Tdi",
+      "1997 Land Rover Defender 90 300Tdi"
+    ],
+    "yearLabel": "1997",
+    "year": 1997,
+    "familyModel": "Defender",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "suv",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "all"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My marque comes from United Kingdom.",
+      "My body style is a sport-utility vehicle, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to all four wheels.",
+      "My badge comes from Land Rover, and my model family is Defender.",
+      "I am the 1997 Land Rover Defender 90 300Tdi."
+    ],
+    "image": "assets/cars/land-rover-defender-1997.jpg",
+    "alt": "A documented 1990s sport-utility vehicle photographed from an exterior angle",
+    "imageCredit": "Vetatur Fumare / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1997_Land_Rover_Defender_bio-diesel,_right_side.jpg"
+  },
+  {
+    "id": "range-rover-classic-1987",
+    "make": "Land Rover",
+    "model": "Range Rover Classic",
+    "displayName": "1987 Land Rover Range Rover Classic",
+    "acceptedNames": [
+      "Land Rover Range Rover",
+      "Land Rover Range Rover Classic",
+      "Range Rover",
+      "Range Rover Classic",
+      "1987 Land Rover Range Rover Classic"
+    ],
+    "yearLabel": "1987",
+    "year": 1987,
+    "familyModel": "Range Rover",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "suv",
+      "engineLayout": "front",
+      "drivenWheels": "all"
+    },
+    "country": "United Kingdom",
+    "clueSteps": [
+      "My marque comes from United Kingdom.",
+      "My body style is a sport-utility vehicle, with a front-mounted engine.",
+      "I send power to all four wheels.",
+      "My badge comes from Land Rover, and my model family is Range Rover.",
+      "I am the 1987 Land Rover Range Rover Classic."
+    ],
+    "image": "assets/cars/range-rover-classic-1987.jpg",
+    "alt": "A documented 1980s sport-utility vehicle photographed from an exterior angle",
+    "imageCredit": "Jeremy from Sydney, Australia / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1987_Land_Rover_Range_Rover_5-door_wagon_(20275565322).jpg"
+  },
+  {
+    "id": "volkswagen-beetle-1967",
+    "make": "Volkswagen",
+    "model": "Beetle",
+    "displayName": "1967 Volkswagen Beetle",
+    "acceptedNames": [
+      "Volkswagen Beetle",
+      "Beetle",
+      "1967 Volkswagen Beetle",
+      "VW Beetle"
+    ],
+    "yearLabel": "1967",
+    "year": 1967,
+    "familyModel": "Beetle",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "rear",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a sedan, with a rear-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Volkswagen, and my model family is Beetle.",
+      "I am the 1967 Volkswagen Beetle."
+    ],
+    "image": "assets/cars/volkswagen-beetle-1967.jpg",
+    "alt": "A documented 1960s sedan photographed from an exterior angle",
+    "imageCredit": "Michael Barera / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Downtown_West_Allis_Classic_Car_Show_64_(1967_Volkswagen_Beetle).jpg"
+  },
+  {
+    "id": "opel-manta-1973",
+    "make": "Opel",
+    "model": "Manta SR 1900",
+    "displayName": "1973 Opel Manta SR 1900",
+    "acceptedNames": [
+      "Opel Manta",
+      "Opel Manta SR 1900",
+      "Manta",
+      "Manta SR 1900",
+      "1973 Opel Manta SR 1900"
+    ],
+    "yearLabel": "1973",
+    "year": 1973,
+    "familyModel": "Manta",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Germany",
+    "clueSteps": [
+      "My marque comes from Germany.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Opel, and my model family is Manta.",
+      "I am the 1973 Opel Manta SR 1900."
+    ],
+    "image": "assets/cars/opel-manta-1973.jpg",
+    "alt": "A documented 1970s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1973_Opel_Manta_SR_1900.jpg"
+  },
+  {
+    "id": "lancia-delta-integrale-1992",
+    "make": "Lancia",
+    "model": "Delta HF Integrale Evoluzione Martini 5",
+    "displayName": "1992 Lancia Delta HF Integrale Evoluzione Martini 5",
+    "acceptedNames": [
+      "Lancia Delta Integrale",
+      "Lancia Delta HF Integrale Evoluzione Martini 5",
+      "Delta Integrale",
+      "Delta HF Integrale Evoluzione Martini 5",
+      "1992 Lancia Delta HF Integrale Evoluzione Martini 5"
+    ],
+    "yearLabel": "1992",
+    "year": 1992,
+    "familyModel": "Delta Integrale",
+    "region": "europe",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "hatchback",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "all"
+    },
+    "country": "Italy",
+    "clueSteps": [
+      "My marque comes from Italy.",
+      "My body style is a hatchback, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to all four wheels.",
+      "My badge comes from Lancia, and my model family is Delta Integrale.",
+      "I am the 1992 Lancia Delta HF Integrale Evoluzione Martini 5."
+    ],
+    "image": "assets/cars/lancia-delta-integrale-1992.jpg",
+    "alt": "A documented 1990s hatchback photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1992_Lancia_Delta_HF_Integrale_Evoluzione_Martini_5,_rear_right_(Greenwich_2021).jpg"
+  },
+  {
+    "id": "toyota-2000gt-1967",
+    "make": "Toyota",
+    "model": "2000GT",
+    "displayName": "1967 Toyota 2000GT",
+    "acceptedNames": [
+      "Toyota 2000GT",
+      "2000GT",
+      "1967 Toyota 2000GT"
+    ],
+    "yearLabel": "1967",
+    "year": 1967,
+    "familyModel": "2000GT",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 6-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Toyota, and my model family is 2000GT.",
+      "I am the 1967 Toyota 2000GT."
+    ],
+    "image": "assets/cars/toyota-2000gt-1967.jpg",
+    "alt": "A documented 1960s coupe photographed from an exterior angle",
+    "imageCredit": "Mr.choppers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1967_Toyota_2000GT_(MF10L),_Bellatrix_Yellow,_front_right_side.jpg"
+  },
+  {
+    "id": "toyota-celica-gtfour-1994",
+    "make": "Toyota",
+    "model": "Celica GT-Four",
+    "displayName": "1994 Toyota Celica GT-Four",
+    "acceptedNames": [
+      "Toyota Celica",
+      "Toyota Celica GT-Four",
+      "Celica",
+      "Celica GT-Four",
+      "1994 Toyota Celica GT-Four"
+    ],
+    "yearLabel": "1994",
+    "year": 1994,
+    "familyModel": "Celica",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "all"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to all four wheels.",
+      "My badge comes from Toyota, and my model family is Celica.",
+      "I am the 1994 Toyota Celica GT-Four."
+    ],
+    "image": "assets/cars/toyota-celica-gtfour-1994.jpg",
+    "alt": "A documented 1990s coupe photographed from an exterior angle",
+    "imageCredit": "Charles from Port Chester, New York / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Celica_GT-Four_(1994)_(52458479313).jpg"
+  },
+  {
+    "id": "nissan-skyline-gtr-r32-1990",
+    "make": "Nissan",
+    "model": "Skyline GT-R R32",
+    "displayName": "1990 Nissan Skyline GT-R R32",
+    "acceptedNames": [
+      "Nissan Skyline GT-R",
+      "Nissan Skyline GT-R R32",
+      "Skyline GT-R",
+      "Skyline GT-R R32",
+      "1990 Nissan Skyline GT-R R32"
+    ],
+    "yearLabel": "1990",
+    "year": 1990,
+    "familyModel": "Skyline GT-R",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 6,
+      "drivenWheels": "all"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 6-cylinder engine and send power to all four wheels.",
+      "My badge comes from Nissan, and my model family is Skyline GT-R.",
+      "I am the 1990 Nissan Skyline GT-R R32."
+    ],
+    "image": "assets/cars/nissan-skyline-gtr-r32-1990.jpg",
+    "alt": "A documented 1990s coupe photographed from an exterior angle",
+    "imageCredit": "DestinationFearFan / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1990_Nissan_Skyline_R32_GT-R_rear.jpg"
+  },
+  {
+    "id": "nissan-silvia-s15-2001",
+    "make": "Nissan",
+    "model": "Silvia S15 Spec R",
+    "displayName": "2001 Nissan Silvia S15 Spec R",
+    "acceptedNames": [
+      "Nissan Silvia",
+      "Nissan Silvia S15 Spec R",
+      "Silvia",
+      "Silvia S15 Spec R",
+      "2001 Nissan Silvia S15 Spec R"
+    ],
+    "yearLabel": "2001",
+    "year": 2001,
+    "familyModel": "Silvia",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Nissan, and my model family is Silvia.",
+      "I am the 2001 Nissan Silvia S15 Spec R."
+    ],
+    "image": "assets/cars/nissan-silvia-s15-2001.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "Charles from Port Chester, New York / Wikimedia Commons",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nissan_Silvia_S15_Spec_R_(2001)_(54804819625).jpg"
+  },
+  {
+    "id": "nissan-fairlady-z-1971",
+    "make": "Nissan",
+    "model": "Fairlady Z432",
+    "displayName": "1971 Nissan Fairlady Z432",
+    "acceptedNames": [
+      "Nissan Fairlady Z",
+      "Nissan Fairlady Z432",
+      "Fairlady Z",
+      "Fairlady Z432",
+      "1971 Nissan Fairlady Z432"
+    ],
+    "yearLabel": "1971",
+    "year": 1971,
+    "familyModel": "Fairlady Z",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 6,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 6-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Nissan, and my model family is Fairlady Z.",
+      "I am the 1971 Nissan Fairlady Z432."
+    ],
+    "image": "assets/cars/nissan-fairlady-z-1971.jpg",
+    "alt": "A documented 1970s coupe photographed from an exterior angle",
+    "imageCredit": "Tokumeigakarinoaoshima / Wikimedia Commons",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1971_Nissan_Fairlady_Z432_(PS30)_front.JPG"
+  },
+  {
+    "id": "honda-s2000-2001",
+    "make": "Honda",
+    "model": "S2000",
+    "displayName": "2001 Honda S2000",
+    "acceptedNames": [
+      "Honda S2000",
+      "S2000",
+      "2001 Honda S2000"
+    ],
+    "yearLabel": "2001",
+    "year": 2001,
+    "familyModel": "S2000",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a roadster, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Honda, and my model family is S2000.",
+      "I am the 2001 Honda S2000."
+    ],
+    "image": "assets/cars/honda-s2000-2001.jpg",
+    "alt": "A documented 2000s roadster photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2001_Honda_S2000_2.jpg"
+  },
+  {
+    "id": "mazda-rx7-fd-1993",
+    "make": "Mazda",
+    "model": "RX-7 FD",
+    "displayName": "1993 Mazda RX-7 FD",
+    "acceptedNames": [
+      "Mazda RX-7",
+      "Mazda RX-7 FD",
+      "RX-7",
+      "RX-7 FD",
+      "1993 Mazda RX-7 FD"
+    ],
+    "yearLabel": "1993",
+    "year": 1993,
+    "familyModel": "RX-7",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "drivenWheels": "rear",
+      "engineType": "rotary"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "My engine uses rotary rotors rather than conventional pistons, and I drive the rear wheels.",
+      "My badge comes from Mazda, and my model family is RX-7.",
+      "I am the 1993 Mazda RX-7 FD."
+    ],
+    "image": "assets/cars/mazda-rx7-fd-1993.jpg",
+    "alt": "A documented 1990s coupe photographed from an exterior angle",
+    "imageCredit": "Charles from Port Chester, New York / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mazda_RX-7_Turbo_(1993)_(54094124108).jpg"
+  },
+  {
+    "id": "subaru-impreza-sti-1998",
+    "make": "Subaru",
+    "model": "Impreza WRX STI",
+    "displayName": "1998 Subaru Impreza WRX STI",
+    "acceptedNames": [
+      "Subaru Impreza WRX STI",
+      "Impreza WRX STI",
+      "1998 Subaru Impreza WRX STI"
+    ],
+    "yearLabel": "1998",
+    "year": 1998,
+    "familyModel": "Impreza WRX STI",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "all"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a sedan, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to all four wheels.",
+      "My badge comes from Subaru, and my model family is Impreza WRX STI.",
+      "I am the 1998 Subaru Impreza WRX STI."
+    ],
+    "image": "assets/cars/subaru-impreza-sti-1998.jpg",
+    "alt": "A documented 1990s sedan photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1998_Subaru_Impreza_STi.jpg"
+  },
+  {
+    "id": "mitsubishi-evo-vi-1999",
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution VI",
+    "displayName": "1999 Mitsubishi Lancer Evolution VI",
+    "acceptedNames": [
+      "Mitsubishi Lancer Evolution",
+      "Mitsubishi Lancer Evolution VI",
+      "Lancer Evolution",
+      "Lancer Evolution VI",
+      "1999 Mitsubishi Lancer Evolution VI"
+    ],
+    "yearLabel": "1999",
+    "year": 1999,
+    "familyModel": "Lancer Evolution",
+    "region": "japan",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "all"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a sedan, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to all four wheels.",
+      "My badge comes from Mitsubishi, and my model family is Lancer Evolution.",
+      "I am the 1999 Mitsubishi Lancer Evolution VI."
+    ],
+    "image": "assets/cars/mitsubishi-evo-vi-1999.jpg",
+    "alt": "A documented 1990s sedan photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1999_Mitsubishi_Lancer_Evolution_VI_7.jpg"
+  },
+  {
+    "id": "lexus-lfa-2012",
+    "make": "Lexus",
+    "model": "LFA Spider",
+    "displayName": "2012 Lexus LFA Spider",
+    "acceptedNames": [
+      "Lexus LFA",
+      "Lexus LFA Spider",
+      "LFA",
+      "LFA Spider",
+      "2012 Lexus LFA Spider"
+    ],
+    "yearLabel": "2012",
+    "year": 2012,
+    "familyModel": "LFA",
+    "region": "japan",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "roadster",
+      "engineLayout": "front",
+      "cylinders": 10,
+      "drivenWheels": "rear"
+    },
+    "country": "Japan",
+    "clueSteps": [
+      "My marque comes from Japan.",
+      "My body style is a roadster, with a front-mounted engine.",
+      "I use a 10-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Lexus, and my model family is LFA.",
+      "I am the 2012 Lexus LFA Spider."
+    ],
+    "image": "assets/cars/lexus-lfa-2012.jpg",
+    "alt": "A documented 2010s roadster photographed from an exterior angle",
+    "imageCredit": "TTTNIS / Wikimedia Commons",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012_Lexus_LFA_Spider_rear.jpg"
+  },
+  {
+    "id": "ford-gt-2006",
+    "make": "Ford",
+    "model": "GT",
+    "displayName": "2006 Ford GT",
+    "acceptedNames": [
+      "Ford GT",
+      "GT",
+      "2006 Ford GT"
+    ],
+    "yearLabel": "2006",
+    "year": 2006,
+    "familyModel": "GT",
+    "region": "usa",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "mid",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a coupe, with a mid-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Ford, and my model family is GT.",
+      "I am the 2006 Ford GT."
+    ],
+    "image": "assets/cars/ford-gt-2006.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "MrWalkr / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2006_Ford_GT_GT101.jpg"
+  },
+  {
+    "id": "chevrolet-corvette-1963",
+    "make": "Chevrolet",
+    "model": "Corvette Sting Ray Convertible",
+    "displayName": "1963 Chevrolet Corvette Sting Ray Convertible",
+    "acceptedNames": [
+      "Chevrolet Corvette",
+      "Chevrolet Corvette Sting Ray Convertible",
+      "Corvette",
+      "Corvette Sting Ray Convertible",
+      "1963 Chevrolet Corvette Sting Ray Convertible",
+      "Chevy Corvette",
+      "Chevy Corvette Sting Ray Convertible"
+    ],
+    "yearLabel": "1963",
+    "year": 1963,
+    "familyModel": "Corvette",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "convertible",
+      "engineLayout": "front",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a convertible, with a front-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Chevrolet, and my model family is Corvette.",
+      "I am the 1963 Chevrolet Corvette Sting Ray Convertible."
+    ],
+    "image": "assets/cars/chevrolet-corvette-1963.jpg",
+    "alt": "A documented 1960s convertible photographed from an exterior angle",
+    "imageCredit": "Greg Gjerdingen from Willmar, USA / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1963_Chevrolet_Corvette_Sting_Ray_Convertible_(27175167243).jpg"
+  },
+  {
+    "id": "dodge-viper-gts-1996",
+    "make": "Dodge",
+    "model": "Viper GTS",
+    "displayName": "1996 Dodge Viper GTS",
+    "acceptedNames": [
+      "Dodge Viper",
+      "Dodge Viper GTS",
+      "Viper",
+      "Viper GTS",
+      "1996 Dodge Viper GTS"
+    ],
+    "yearLabel": "1996",
+    "year": 1996,
+    "familyModel": "Viper",
+    "region": "usa",
+    "supercar": true,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 10,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 10-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Dodge, and my model family is Viper.",
+      "I am the 1996 Dodge Viper GTS."
+    ],
+    "image": "assets/cars/dodge-viper-gts-1996.jpg",
+    "alt": "A documented 1990s coupe photographed from an exterior angle",
+    "imageCredit": "Michael Barera / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indianapolis_Motor_Speedway_Museum_May_2026_54_(1996_Dodge_Viper_GTS_pace_car).jpg"
+  },
+  {
+    "id": "dodge-challenger-1970",
+    "make": "Dodge",
+    "model": "Challenger R/T",
+    "displayName": "1970 Dodge Challenger R/T",
+    "acceptedNames": [
+      "Dodge Challenger",
+      "Dodge Challenger R/T",
+      "Challenger",
+      "Challenger R/T",
+      "1970 Dodge Challenger R/T"
+    ],
+    "yearLabel": "1970",
+    "year": 1970,
+    "familyModel": "Challenger",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Dodge, and my model family is Challenger.",
+      "I am the 1970 Dodge Challenger R/T."
+    ],
+    "image": "assets/cars/dodge-challenger-1970.jpg",
+    "alt": "A documented 1970s coupe photographed from an exterior angle",
+    "imageCredit": "Calreyn88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R_T.jpg"
+  },
+  {
+    "id": "dodge-charger-1969",
+    "make": "Dodge",
+    "model": "Charger R/T",
+    "displayName": "1969 Dodge Charger R/T",
+    "acceptedNames": [
+      "Dodge Charger",
+      "Dodge Charger R/T",
+      "Charger",
+      "Charger R/T",
+      "1969 Dodge Charger R/T"
+    ],
+    "yearLabel": "1969",
+    "year": 1969,
+    "familyModel": "Charger",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Dodge, and my model family is Charger.",
+      "I am the 1969 Dodge Charger R/T."
+    ],
+    "image": "assets/cars/dodge-charger-1969.jpg",
+    "alt": "A documented 1960s coupe photographed from an exterior angle",
+    "imageCredit": "MercurySable99 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1969_Dodge_Charger_R-T,_front_right_(2022_Ellwood_City_Fall_Fest_%26_Car_Cruise).jpg"
+  },
+  {
+    "id": "plymouth-barracuda-1970",
+    "make": "Plymouth",
+    "model": "Barracuda",
+    "displayName": "1970 Plymouth Barracuda",
+    "acceptedNames": [
+      "Plymouth Barracuda",
+      "Barracuda",
+      "1970 Plymouth Barracuda"
+    ],
+    "yearLabel": "1970",
+    "year": 1970,
+    "familyModel": "Barracuda",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I send power to the rear wheels.",
+      "My badge comes from Plymouth, and my model family is Barracuda.",
+      "I am the 1970 Plymouth Barracuda."
+    ],
+    "image": "assets/cars/plymouth-barracuda-1970.jpg",
+    "alt": "A documented 1970s coupe photographed from an exterior angle",
+    "imageCredit": "Michael Barera / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Downtown_West_Allis_Classic_Car_Show_19_(1970_Plymouth_Barracuda).jpg"
+  },
+  {
+    "id": "pontiac-gto-1967",
+    "make": "Pontiac",
+    "model": "GTO",
+    "displayName": "1967 Pontiac GTO",
+    "acceptedNames": [
+      "Pontiac GTO",
+      "GTO",
+      "1967 Pontiac GTO"
+    ],
+    "yearLabel": "1967",
+    "year": 1967,
+    "familyModel": "GTO",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Pontiac, and my model family is GTO.",
+      "I am the 1967 Pontiac GTO."
+    ],
+    "image": "assets/cars/pontiac-gto-1967.jpg",
+    "alt": "A documented 1960s coupe photographed from an exterior angle",
+    "imageCredit": "MercurySable99 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1967_Pontiac_GTO_hardtop_coupe,_front_left,_05-26-2025.jpg"
+  },
+  {
+    "id": "cadillac-eldorado-1959",
+    "make": "Cadillac",
+    "model": "Eldorado Biarritz",
+    "displayName": "1959 Cadillac Eldorado Biarritz",
+    "acceptedNames": [
+      "Cadillac Eldorado",
+      "Cadillac Eldorado Biarritz",
+      "Eldorado",
+      "Eldorado Biarritz",
+      "1959 Cadillac Eldorado Biarritz"
+    ],
+    "yearLabel": "1959",
+    "year": 1959,
+    "familyModel": "Eldorado",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "convertible",
+      "engineLayout": "front",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a convertible, with a front-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Cadillac, and my model family is Eldorado.",
+      "I am the 1959 Cadillac Eldorado Biarritz."
+    ],
+    "image": "assets/cars/cadillac-eldorado-1959.jpg",
+    "alt": "A documented 1950s convertible photographed from an exterior angle",
+    "imageCredit": "Greg Gjerdingen / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1959_Cadillac_Eldorado_Biarritz_(33916124923).jpg"
+  },
+  {
+    "id": "jeep-willys-mb-1944",
+    "make": "Willys",
+    "model": "MB Jeep",
+    "displayName": "1944 Willys MB Jeep",
+    "acceptedNames": [
+      "Willys Willys MB",
+      "Willys MB Jeep",
+      "Willys MB",
+      "MB Jeep",
+      "1944 Willys MB Jeep"
+    ],
+    "yearLabel": "1944",
+    "year": 1944,
+    "familyModel": "Willys MB",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "suv",
+      "engineLayout": "front",
+      "cylinders": 4,
+      "drivenWheels": "all"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a sport-utility vehicle, with a front-mounted engine.",
+      "I use a 4-cylinder engine and send power to all four wheels.",
+      "My badge comes from Willys, and my model family is Willys MB.",
+      "I am the 1944 Willys MB Jeep."
+    ],
+    "image": "assets/cars/jeep-willys-mb-1944.jpg",
+    "alt": "A documented 1940s sport-utility vehicle photographed from an exterior angle",
+    "imageCredit": "Greg Gjerdingen from Willmar, USA / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1944_Willys_MB_Jeep_(35944491630).jpg"
+  },
+  {
+    "id": "tesla-model-s-2015",
+    "make": "Tesla",
+    "model": "Model S 70D",
+    "displayName": "2015 Tesla Model S 70D",
+    "acceptedNames": [
+      "Tesla Model S",
+      "Tesla Model S 70D",
+      "Model S",
+      "Model S 70D",
+      "2015 Tesla Model S 70D"
+    ],
+    "yearLabel": "2015",
+    "year": 2015,
+    "familyModel": "Model S",
+    "region": "usa",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "sedan",
+      "drivenWheels": "all",
+      "powertrain": "electric"
+    },
+    "country": "United States",
+    "clueSteps": [
+      "My marque comes from United States.",
+      "My body style is a sedan, and I use an electric drivetrain.",
+      "I use an electric powertrain and send power to all four wheels.",
+      "My badge comes from Tesla, and my model family is Model S.",
+      "I am the 2015 Tesla Model S 70D."
+    ],
+    "image": "assets/cars/tesla-model-s-2015.jpg",
+    "alt": "A documented 2010s sedan photographed from an exterior angle",
+    "imageCredit": "Granada / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20180630_Tesla_Model_S_70D_midnight_blue_Tesla_Model_S_70D_2015_rear_right-2.jpg"
+  },
+  {
+    "id": "holden-monaro-2004",
+    "make": "Holden",
+    "model": "Monaro CV8",
+    "displayName": "2004 Holden Monaro CV8",
+    "acceptedNames": [
+      "Holden Monaro",
+      "Holden Monaro CV8",
+      "Monaro",
+      "Monaro CV8",
+      "2004 Holden Monaro CV8"
+    ],
+    "yearLabel": "2004",
+    "year": 2004,
+    "familyModel": "Monaro",
+    "region": "other",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "coupe",
+      "engineLayout": "front",
+      "cylinders": 8,
+      "drivenWheels": "rear"
+    },
+    "country": "Australia",
+    "clueSteps": [
+      "My marque comes from Australia.",
+      "My body style is a coupe, with a front-mounted engine.",
+      "I use a 8-cylinder engine and send power to the rear wheels.",
+      "My badge comes from Holden, and my model family is Monaro.",
+      "I am the 2004 Holden Monaro CV8."
+    ],
+    "image": "assets/cars/holden-monaro-2004.jpg",
+    "alt": "A documented 2000s coupe photographed from an exterior angle",
+    "imageCredit": "GPS 56 from New Zealand / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2004_Holden_V2_Monaro_CV8_(22287863349).jpg"
+  },
+  {
+    "id": "hyundai-ioniq5-2022",
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "displayName": "2022 Hyundai Ioniq 5",
+    "acceptedNames": [
+      "Hyundai Ioniq 5",
+      "Ioniq 5",
+      "2022 Hyundai Ioniq 5"
+    ],
+    "yearLabel": "2022",
+    "year": 2022,
+    "familyModel": "Ioniq 5",
+    "region": "other",
+    "supercar": false,
+    "attrs": {
+      "bodyStyle": "hatchback",
+      "drivenWheels": "all",
+      "powertrain": "electric"
+    },
+    "country": "South Korea",
+    "clueSteps": [
+      "My marque comes from South Korea.",
+      "My body style is a hatchback, and I use an electric drivetrain.",
+      "I use an electric powertrain and send power to all four wheels.",
+      "My badge comes from Hyundai, and my model family is Ioniq 5.",
+      "I am the 2022 Hyundai Ioniq 5."
+    ],
+    "image": "assets/cars/hyundai-ioniq5-2022.jpg",
+    "alt": "A documented 2020s hatchback photographed from an exterior angle",
+    "imageCredit": "Charles from Port Chester, New York / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_(2022)_(52571327851).jpg"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "octane-iq",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --check dist/app.js && node --check dist/spotter.js && node --check dist/cardle.js && node --check dist/connections.js && node --check dist/autoask.js && node --check dist/account.js && node --check dist/credits.js && node scripts/validate-questions.mjs && node scripts/validate-site.mjs && node scripts/validate-logic.mjs && node scripts/validate-assets.mjs && node scripts/validate-spotter.mjs && node scripts/cardle-dom.test.mjs && node scripts/connections-autoask-dom.test.mjs && node scripts/validate-offline.mjs && node --test scripts/app-dom.test.mjs scripts/auth-dom.test.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "jpeg-js": "0.4.4",
+    "linkedom": "0.18.12"
+  }
+}

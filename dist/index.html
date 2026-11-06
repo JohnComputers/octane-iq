@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#111310" />
+    <meta name="description" content="Free daily car trivia with carefully written questions, sourced explanations, practice modes, and no account required." />
+    <meta property="og:title" content="Octane IQ — Know what moves you" />
+    <meta property="og:description" content="Seven smart car questions a day. Free forever, with sources for every answer." />
+    <meta property="og:type" content="website" />
+    <title>Octane IQ — Free Daily Car Trivia</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./spotter.css" />
+    <link rel="stylesheet" href="./cardle.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header" id="site-header">
+      <a class="brand" href="#home" data-nav="home" aria-label="Octane IQ home">
+        <span class="brand-mark" aria-hidden="true"><i></i></span>
+        <span>OCTANE <b>IQ</b></span>
+      </a>
+
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <button class="nav-link is-active" type="button" data-nav="home">Home</button>
+        <button class="nav-link" type="button" data-scroll="games">Modes</button>
+        <a class="nav-link" href="./cardle.html" style="text-decoration:none">Cardle</a>
+        <button class="nav-link" type="button" data-nav="stats">My stats</button>
+        <button class="nav-link" type="button" data-scroll="about">How it works</button>
+      </nav>
+
+      <div class="header-actions">
+        <a class="icon-button" href="./account.html" aria-label="Account or play as guest"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3"/><path d="M5 20v-2a7 7 0 0 1 14 0v2"/></svg></a>
+        <button class="icon-button mobile-stats" type="button" data-nav="stats" aria-label="Open my stats">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19v-6M12 19V5M19 19v-9"/></svg>
+        </button>
+        <button class="icon-button" id="theme-toggle" type="button" aria-label="Switch to dark theme" aria-pressed="false">
+          <svg class="sun-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="moon-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 15.2A9 9 0 1 1 8.8 3 7 7 0 0 0 21 15.2Z"/></svg>
+        </button>
+        <button class="button button-small button-dark" id="header-play" type="button" data-mode="daily">Play today <span aria-hidden="true">→</span></button>
+      </div>
+    </header>
+
+    <main id="main-content" tabindex="-1">
+      <section class="view home-view is-active" id="home-view" data-view="home">
+        <div class="load-error" id="load-error" role="alert" hidden>
+          <div><strong>The question bank didn’t load.</strong><span>Your saved progress is safe. Check your connection and try again.</span></div>
+          <button class="button button-dark button-small" id="retry-questions" type="button">Retry</button>
+        </div>
+        <div class="hero-shell">
+          <div class="road-line road-line-one" aria-hidden="true"></div>
+          <div class="road-line road-line-two" aria-hidden="true"></div>
+
+          <div class="hero-copy reveal-in">
+            <p class="eyebrow"><span></span> Built for people who notice the details</p>
+            <h1>Know what<br /><em>moves you.</em></h1>
+            <p class="hero-lede">Seven genuinely good car questions every day. Learn the story behind every answer—with no paywalls, no ads, and no account.</p>
+            <div class="hero-actions">
+              <button class="button button-primary button-large" id="daily-cta" type="button" data-mode="daily">
+                <span>Start today’s drive</span><span class="button-arrow" aria-hidden="true">↗</span>
+              </button>
+              <button class="text-button" type="button" data-scroll="games">Explore all modes <span aria-hidden="true">↓</span></button>
+            </div>
+            <ul class="trust-row" aria-label="Site promises">
+              <li><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m4 10 4 4 8-9"/></svg> Free forever</li>
+              <li><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m4 10 4 4 8-9"/></svg> No account</li>
+              <li><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m4 10 4 4 8-9"/></svg> Sources included</li>
+            </ul>
+          </div>
+
+          <aside class="daily-card reveal-in" aria-labelledby="daily-card-title">
+            <div class="daily-card-top">
+              <div>
+                <p class="micro-label">Today’s run</p>
+                <h2 id="daily-card-title">Daily Drive <span id="daily-number">#001</span></h2>
+              </div>
+              <span class="live-pill"><i></i> Live</span>
+            </div>
+            <div class="gauge" aria-hidden="true">
+              <div class="gauge-track"></div>
+              <div class="gauge-needle"></div>
+              <div class="gauge-hub"></div>
+              <span class="gauge-zero">0</span><span class="gauge-max">7</span>
+              <div class="gauge-readout"><b>7</b><small>questions</small></div>
+            </div>
+            <div class="daily-details">
+              <div><span>Difficulty</span><strong>Mixed</strong></div>
+              <div><span>Est. time</span><strong>4 min</strong></div>
+              <div><span>Your streak</span><strong><span id="hero-streak">0</span> days</strong></div>
+            </div>
+            <button class="card-start" type="button" data-mode="daily">
+              <span id="daily-card-action">Ignition on</span>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+            </button>
+          </aside>
+        </div>
+
+        <div class="resume-banner" id="resume-banner" hidden>
+          <div><span class="resume-icon" aria-hidden="true">↻</span><div><strong>You have a run in progress</strong><small id="resume-detail">Question 1 of 5</small></div></div>
+          <div class="resume-actions"><button class="text-button" id="discard-run" type="button">Discard</button><button class="button button-dark button-small" id="resume-run" type="button">Resume run →</button></div>
+        </div>
+
+        <section class="section" id="games" aria-labelledby="games-title">
+          <div class="section-heading"><div><p class="eyebrow"><span></span> Your daily garage</p><h2 id="games-title">Five familiar formats.<br />Every mode unlocked.</h2></div><p>Photo identification, category puzzles, and car deduction. Play daily or keep practicing. An account is optional.</p></div>
+          <div class="game-links-grid">
+            <a class="game-link-card" href="./cardle.html"><b>Cardle</b><span>Make, model and year. Five cropped photo reveals.</span><i aria-hidden="true">↗</i></a>
+            <a class="game-link-card" href="./connections.html"><b>Car Connections</b><span>Sixteen terms. Four hidden automotive categories.</span><i aria-hidden="true">↗</i></a>
+            <a class="game-link-card" href="./cardle.html?game=supercardle"><b>Supercardle</b><span>Supercars and exotics, with the same three-field challenge.</span><i aria-hidden="true">↗</i></a>
+            <a class="game-link-card" href="./cardle.html?game=eurocardle"><b>Eurocardle</b><span>A dedicated European photo challenge.</span><i aria-hidden="true">↗</i></a>
+            <a class="game-link-card" href="./autoask.html"><b>AutoAsk</b><span>Ask yes/no questions and identify a car in twenty turns.</span><i aria-hidden="true">↗</i></a>
+          </div>
+        </section>
+
+        <section class="section mode-section" id="modes" aria-labelledby="modes-title">
+          <div class="section-heading">
+            <div><p class="eyebrow"><span></span> Pick your pace</p><h2 id="modes-title">More ways to test your garage brain.</h2></div>
+            <p>Daily ritual or full-send session—every mode uses the same carefully researched question bank.</p>
+          </div>
+
+          <div class="mode-grid">
+            <article class="mode-card mode-card-featured">
+              <div class="mode-card-art art-daily" aria-hidden="true"><span class="big-number">07</span><div class="finish-stripe"></div></div>
+              <div class="mode-card-body">
+                <div class="card-meta"><span>Daily</span><span>4 min</span></div>
+                <h3>Daily Drive</h3>
+                <p>A shared set of seven balanced questions, refreshed every day at midnight UTC.</p>
+                <button class="mode-link" type="button" data-mode="daily">Play today <span>→</span></button>
+              </div>
+            </article>
+
+            <article class="mode-card">
+              <div class="mode-card-art art-quick" aria-hidden="true"><div class="speed-lines"></div><span>5</span></div>
+              <div class="mode-card-body">
+                <div class="card-meta"><span>Practice</span><span>5 questions</span></div>
+                <h3>Quick Lap</h3>
+                <p>Five random questions when you want a fast, low-pressure knowledge tune-up.</p>
+                <button class="mode-link" type="button" data-mode="quick">Take a quick lap <span>→</span></button>
+              </div>
+            </article>
+
+            <article class="mode-card">
+              <div class="mode-card-art art-timed" aria-hidden="true"><div class="timer-ring"><span>90</span></div></div>
+              <div class="mode-card-body">
+                <div class="card-meta"><span>Arcade</span><span>90 seconds</span></div>
+                <h3>Time Attack</h3>
+                <p>Answer as many as you can before the clock hits zero. Fast recall, clean lines.</p>
+                <button class="mode-link" type="button" data-mode="time">Beat the clock <span>→</span></button>
+              </div>
+            </article>
+
+            <article class="mode-card mode-card-dark">
+              <div class="mode-card-art art-endurance" aria-hidden="true"><div class="life-dots"><i></i><i></i><i></i></div><span>∞</span></div>
+              <div class="mode-card-body">
+                <div class="card-meta"><span>Expert</span><span>3 lives</span></div>
+                <h3>Endurance</h3>
+                <p>Keep going until three misses end your run. How far can your knowledge carry you?</p>
+                <button class="mode-link" type="button" data-mode="endurance">Start endurance <span>→</span></button>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section class="spotter-feature" aria-labelledby="spotter-feature-title">
+          <img class="spotter-feature-photo" src="./assets/cars/jaguar-e-type-1961.jpg" alt="Green classic sports car photographed from the front three-quarter angle in a museum" width="1280" height="677" loading="lazy" decoding="async" />
+          <div class="spotter-feature-copy"><p class="eyebrow eyebrow-light"><span></span> New · real car photography</p><h2 id="spotter-feature-title">Got an eye<br />for the details?</h2><p>Five attempts. One mystery car. Spot the make and model as each photo crop widens. A daily challenge plus unlimited practice, all free.</p><a href="./spotter.html" class="button button-primary button-large">Play Spotter <span aria-hidden="true">↗</span></a><a href="./credits.html" style="display:block;color:#b9bdb2;font-size:11px;margin-top:20px">Licensed photography · view credits ↗</a></div>
+        </section>
+
+        <section class="section garage-section" id="garage" aria-labelledby="garage-title">
+          <div class="garage-intro">
+            <p class="eyebrow eyebrow-light"><span></span> Category garage</p>
+            <h2 id="garage-title">Train the part of your brain that needs a tune-up.</h2>
+            <p>Your accuracy is tracked by topic on this device, so Octane IQ can show where you’re flying—and where there’s grip to find.</p>
+            <button class="button button-light" type="button" data-nav="stats">View my performance →</button>
+          </div>
+          <div class="category-grid" id="category-grid">
+            <button class="category-card" type="button" data-category="engineering"><span class="category-icon">⚙</span><span><b>Engineering</b><small>Engines, chassis & tech</small></span><i>→</i></button>
+            <button class="category-card" type="button" data-category="motorsport"><span class="category-icon">🏁</span><span><b>Motorsport</b><small>Racing history & rules</small></span><i>→</i></button>
+            <button class="category-card" type="button" data-category="history"><span class="category-icon">◷</span><span><b>History</b><small>People, places & firsts</small></span><i>→</i></button>
+            <button class="category-card" type="button" data-category="design"><span class="category-icon">✎</span><span><b>Design</b><small>Shapes, studios & details</small></span><i>→</i></button>
+            <button class="category-card" type="button" data-category="brands"><span class="category-icon">◇</span><span><b>Brands</b><small>Badges, models & origins</small></span><i>→</i></button>
+            <button class="category-card" type="button" data-category="culture"><span class="category-icon">▶</span><span><b>Car culture</b><small>Film, language & icons</small></span><i>→</i></button>
+            <button class="category-card" type="button" data-category="evs"><span class="category-icon">ϟ</span><span><b>EVs & hybrids</b><small>Batteries, motors & charging</small></span><i>→</i></button>
+            <button class="category-card" type="button" data-category="safety"><span class="category-icon">⌾</span><span><b>Safety</b><small>Restraints, ratings & systems</small></span><i>→</i></button>
+          </div>
+        </section>
+
+        <section class="section quality-section" id="about" aria-labelledby="quality-title">
+          <div class="quality-number" aria-hidden="true">100%</div>
+          <div class="quality-copy">
+            <p class="eyebrow"><span></span> Better questions, by design</p>
+            <h2 id="quality-title">Trivia should teach you something—not trick you.</h2>
+            <p>Every question is written to have one defensible answer, plausible choices, a useful explanation, and a source you can inspect. No vague “fastest ever” claims. No gotchas hiding in the wording.</p>
+            <div class="quality-points">
+              <div><span>01</span><p><b>Specific</b><small>Era, market, and measurement are named when they matter.</small></p></div>
+              <div><span>02</span><p><b>Balanced</b><small>Brands, countries, categories, and decades rotate.</small></p></div>
+              <div><span>03</span><p><b>Sourced</b><small>Open the evidence from every answer explanation.</small></p></div>
+            </div>
+          </div>
+        </section>
+      </section>
+
+      <section class="view game-view" id="game-view" data-view="game" aria-labelledby="question-title" hidden>
+        <div class="game-shell">
+          <div class="game-topbar">
+            <button class="back-button" id="quit-game" type="button"><span aria-hidden="true">←</span> Exit run</button>
+            <div class="game-mode-name"><span id="game-mode-kicker">Daily Drive</span><small id="game-mode-subtitle">Today’s shared challenge</small></div>
+            <div class="game-metrics">
+              <div id="lives-display" hidden aria-label="Three lives remaining"><span>Lives</span><b id="lives-value">● ● ●</b></div>
+              <div id="timer-display" hidden aria-label="90 seconds remaining"><span>Time</span><b id="timer-value">1:30</b></div>
+              <div><span>Score</span><b id="score-value">0</b></div>
+            </div>
+          </div>
+
+          <div class="progress-wrap">
+            <div class="progress-meta"><span id="question-count">Question 1 of 7</span><span id="progress-percent">14%</span></div>
+            <div class="progress-track" role="progressbar" aria-label="Quiz progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="14"><i id="progress-fill"></i></div>
+          </div>
+
+          <article class="question-panel" id="question-panel">
+            <div class="question-tags"><span id="question-category">Engineering</span><span id="question-difficulty">Medium</span><span id="question-era">Modern</span></div>
+            <p class="question-number" id="question-id">Question OIQ-001</p>
+            <h1 id="question-title" tabindex="-1">Loading your next question…</h1>
+            <p class="question-context" id="question-context" hidden></p>
+
+            <div class="answers" id="answers" role="group" aria-labelledby="question-title"></div>
+
+            <div class="feedback-panel" id="feedback-panel" tabindex="-1" hidden>
+              <div class="feedback-heading"><span class="feedback-icon" id="feedback-icon" aria-hidden="true">✓</span><div><p id="feedback-status">Correct</p><h2 id="feedback-answer">Answer</h2></div></div>
+              <p id="feedback-explanation"></p>
+              <div class="feedback-footer">
+                <a id="source-link" href="#" target="_blank" rel="noopener noreferrer">View source ↗</a>
+                <a id="report-link" href="#">Copy question reference</a>
+              </div>
+            </div>
+
+            <div class="question-actions">
+              <p class="keyboard-hint"><kbd>1</kbd>–<kbd>4</kbd> to answer <span>•</span> <kbd>Enter</kbd> to continue</p>
+              <button class="button button-primary" id="next-question" type="button" hidden>Next question <span aria-hidden="true">→</span></button>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="view results-view" id="results-view" data-view="results" hidden>
+        <div class="results-shell">
+          <p class="eyebrow centered"><span></span> Run complete <span></span></p>
+          <div class="result-gauge" aria-hidden="true"><svg viewBox="0 0 220 120"><path class="result-gauge-track" d="M20 108a90 90 0 0 1 180 0"/><path class="result-gauge-fill" id="result-gauge-fill" d="M20 108a90 90 0 0 1 180 0"/></svg><div><b id="result-score">0/7</b><small id="result-score-label">Solid run</small></div></div>
+          <h1 id="result-title">You know your way around a garage.</h1>
+          <p id="result-summary">A sharp result, with a few new facts now parked in your memory.</p>
+
+          <div class="result-stats">
+            <div><span>Accuracy</span><b id="result-accuracy">0%</b></div>
+            <div><span>Best category</span><b id="result-best">—</b></div>
+            <div><span>Daily streak</span><b id="result-streak">0 days</b></div>
+          </div>
+
+          <div class="share-grid" id="share-grid" aria-label="Spoiler-free answer pattern"></div>
+
+          <div class="result-actions">
+            <button class="button button-primary button-large" id="share-result" type="button">Share result <span aria-hidden="true">↗</span></button>
+            <button class="button button-outline button-large" id="review-misses" type="button" aria-expanded="false" aria-controls="review-panel">Review answers</button>
+          </div>
+
+          <div class="review-panel" id="review-panel" hidden><h2>Answer review</h2><div id="review-list"></div></div>
+          <button class="text-button home-return" type="button" data-nav="home">Back to the garage →</button>
+        </div>
+      </section>
+
+      <section class="view stats-view" id="stats-view" data-view="stats" hidden>
+        <div class="stats-shell">
+          <div class="stats-header">
+            <div><p class="eyebrow"><span></span> Your garage</p><h1>Personal performance</h1><p>Stored only on this device. No account, no cloud profile, no pretending these are global rankings.</p></div>
+            <button class="button button-primary" type="button" data-mode="quick">Start a quick lap →</button>
+          </div>
+
+          <div class="stat-cards">
+            <article><span>Questions answered</span><b id="stat-answered">0</b><small>All-time on this device</small></article>
+            <article><span>Overall accuracy</span><b id="stat-accuracy">—</b><small id="stat-correct">0 correct answers</small></article>
+            <article><span>Current streak</span><b id="stat-streak">0</b><small id="stat-best-streak">Best: 0 days</small></article>
+            <article><span>Runs finished</span><b id="stat-runs">0</b><small>Across every mode</small></article>
+          </div>
+
+          <div class="stats-grid">
+            <section class="stat-panel"><div class="panel-heading"><div><p class="micro-label">Skill map</p><h2>Accuracy by category</h2></div><span>Correct / answered</span></div><div class="category-bars" id="category-bars"></div></section>
+            <section class="stat-panel"><div class="panel-heading"><div><p class="micro-label">Milestones</p><h2>Achievements</h2></div></div><div class="achievement-grid" id="achievement-grid"></div></section>
+          </div>
+
+          <div class="data-controls">
+            <div><h2>Your data stays yours.</h2><p>Progress lives in this browser’s local storage. Download a portable copy or clear it whenever you like.</p></div>
+            <div><button class="button button-outline" id="export-data" type="button">Download my data</button><button class="danger-button" id="reset-data" type="button">Reset everything</button></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-brand"><a class="brand brand-light" href="#home" data-nav="home"><span class="brand-mark" aria-hidden="true"><i></i></span><span>OCTANE <b>IQ</b></span></a><p>Better car trivia, open to everyone.</p></div>
+      <div class="footer-links"><div><b>Play</b><a href="./spotter.html">Spotter photo game</a><button type="button" data-mode="daily">Daily Drive</button><button type="button" data-mode="quick">Quick Lap</button><button type="button" data-mode="time">Time Attack</button></div><div><b>Principles</b><button type="button" data-scroll="about">Question quality</button><a href="./credits.html">Photo credits</a><button type="button" data-nav="stats">Local stats</button><span>Free forever</span></div></div>
+      <div class="footer-bottom"><span>© <span id="year"></span> Octane IQ</span><span>Made for curious drivers, not data brokers.</span></div>
+    </footer>
+
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden>Copied to clipboard</div>
+    <div class="sr-only" id="live-region" role="status" aria-live="polite" aria-atomic="true"></div>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

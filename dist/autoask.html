@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#111310" />
+  <meta name="description" content="Deduce a mystery car in twenty turns using transparent, curated yes-or-no facts. Free daily and unlimited practice." />
+  <title>AutoAsk — Twenty Questions for Cars | Octane IQ</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./autoask.css" />
+  <script src="./autoask.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#autoask-main">Skip to game</a>
+  <header class="site-header autoask-header">
+    <a class="brand" href="./"><span class="brand-mark" aria-hidden="true"><i></i></span><span>OCTANE <b>IQ</b></span></a>
+    <nav aria-label="Game navigation"><a class="text-button" href="./#games">All games ↗</a><a class="text-button" href="./cardle.html">Cardle</a><a class="text-button" href="./connections.html">CarConnections</a></nav>
+  </header>
+
+  <main class="autoask-shell" id="autoask-main">
+    <section class="autoask-heading">
+      <div><p class="eyebrow"><span></span> Follow the evidence</p><h1>Auto<span>Ask</span></h1><p>Identify the mystery car in twenty turns. Ask verified yes-or-no questions, then make your guess when the evidence lines up.</p></div>
+      <div class="autoask-tabs" role="group" aria-label="Game type"><button id="daily-autoask" type="button" aria-pressed="true">Daily</button><button id="practice-autoask" type="button" aria-pressed="false">Practice</button></div>
+    </section>
+
+    <div class="autoask-status"><span id="autoask-date">Today · UTC</span><strong id="autoask-turn">Turn 1 of 20</strong><span id="autoask-streak">0-day streak</span></div>
+    <div class="turn-track" id="turn-track" role="progressbar" aria-label="Turns used" aria-valuemin="0" aria-valuemax="20" aria-valuenow="0"></div>
+
+    <section class="autoask-game" aria-label="AutoAsk game">
+      <aside class="ask-history-panel"><div class="panel-heading"><div><p class="micro-label">Evidence log</p><h2>What you know</h2></div><span id="history-count">0 facts</span></div><ol class="ask-history" id="ask-history"><li class="empty-history">Your answers will build a trail here.</li></ol></aside>
+
+      <div class="ask-control-panel">
+        <div id="ask-controls">
+          <div class="fact-note"><span aria-hidden="true">◎</span><p><b>Curated fact bank</b><small>Answers use a curated fact bank you can inspect.</small></p></div>
+          <label for="question-search">Search yes-or-no questions</label>
+          <input id="question-search" type="search" placeholder="Try “engine”, “Japan”, or “headlights”" autocomplete="off" />
+          <div class="question-bank" id="question-bank" aria-label="Available questions"></div>
+
+          <div class="guess-divider"><span>or name the car</span></div>
+          <form id="car-guess-form" class="car-guess-form">
+            <label for="autoask-guess">Make and model</label>
+            <div><input id="autoask-guess" name="guess" list="autoask-cars" placeholder="e.g. Mazda MX-5" autocomplete="off" maxlength="100" required /><button class="button button-primary" type="submit">Make guess →</button></div>
+            <datalist id="autoask-cars"></datalist>
+          </form>
+        </div>
+        <p class="autoask-message" id="autoask-message" role="status" aria-live="polite" aria-atomic="true">Choose the most useful question first.</p>
+
+        <div class="autoask-result" id="autoask-result" tabindex="-1" hidden>
+          <div class="autoask-result-photo"><img id="autoask-photo" alt="" /><span id="autoask-photo-credit"></span></div>
+          <p class="micro-label" id="autoask-result-label">Mystery solved</p><h2 id="autoask-answer"></h2><p id="autoask-outcome"></p><p id="autoask-fact"></p>
+          <div class="autoask-result-actions"><button class="button button-dark button-small" id="share-autoask" type="button">Share result ↗</button><button class="button button-outline button-small" id="another-autoask" type="button">Another mystery →</button><a class="text-button" id="autoask-source" target="_blank" rel="noopener noreferrer">Photo source ↗</a></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="autoask-notes"><div><p class="eyebrow"><span></span> A fair twenty questions</p><h2>Every answer has a reason.</h2></div><div><p><b>Questions</b><span>Each factual question costs one turn and cannot be repeated.</span></p><p><b>Guesses</b><span>A wrong make-and-model guess also costs one turn.</span></p><p><b>Daily</b><span>Everyone receives the same car at midnight UTC.</span></p></div></section>
+    <p class="autoask-note">The curated starter garage rotates through licensed cars in Octane IQ. Practice is unlimited, all questions are free, and progress stays on this device.</p>
+  </main>
+</body>
+</html>
